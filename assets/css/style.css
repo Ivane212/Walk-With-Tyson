@@ -23,6 +23,9 @@ header {
     position: fixed;
     width: 100%;
     z-index: 5;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 .header a {
@@ -47,7 +50,7 @@ header {
     border-bottom: 2px solid green;
 }
 
-/* Navbar styles with dropdown toggle */
+/* Navbar styles with dropdown toggle 
 
 nav {
     position: absolute;
@@ -58,6 +61,16 @@ nav {
     display: none;
     top: 100%;
 }
+*/
+/* Nav toggle 
+#nav-toggle:checked~nav {
+    display: block;
+}
+*/
+
+
+
+
 
 /* Main content */
 main {

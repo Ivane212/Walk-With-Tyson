@@ -20,13 +20,38 @@ body {
 
 /*heade*/
 header {
-    background-color: red;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
 }
+
+.header a {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+   
+}
+
+.navbar a {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+ul li {
+    display: inline-block;
+    padding: 10px 12px;
+    justify-content: space-between;
+}
+
 
 /*main content */
 main {
     background-color: blue;
     flex: 1 0 auto;
+    margin-top: ;
 
 }
 
@@ -35,3 +60,5 @@ main {
 footer {
     background-color: green;
 }
+
+

@@ -16,9 +16,6 @@ body {
 }
 
 
-
-
-
 /* Header */
 header {
     background-color: red;
@@ -27,6 +24,8 @@ header {
 /* Main content */
 main {
     background-color: green;
+    /*push footer down*/
+    flex: 1 0 auto;
     
 }
 

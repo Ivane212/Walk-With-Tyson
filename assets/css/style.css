@@ -6,11 +6,13 @@
 }
 
 /* General styles */
+
 body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
 }
 
 
@@ -25,6 +27,7 @@ header {
 /* Main content */
 main {
     background-color: green;
+    
 }
 
 

@@ -38,6 +38,9 @@ header {
     list-style-type: none;
     color: darkgreen;
 }
+.navbar li {
+    margin-bottom: 10px;
+}
 
 
 /* Main content */

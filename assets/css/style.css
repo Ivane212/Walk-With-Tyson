@@ -23,9 +23,6 @@ header {
     position: fixed;
     width: 100%;
     z-index: 5;
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
 }
 
 .header a {
@@ -34,12 +31,16 @@ header {
     width: 100%;  
     font-size: 20px;
     color: darkgreen;
+    
 }
 
 .navbar a {
     text-decoration: none;
     list-style-type: none;
     color: darkgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .navbar li {
     margin-bottom: 10px;

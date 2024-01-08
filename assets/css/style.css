@@ -1,7 +1,19 @@
 /*Google Font*/
 @import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
 
+/*asterisk wildcard selector*/
+* {
+  padding: 0;
+  margin: 0;
+}
 
+/* General styles */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Kalam', cursive, sans-serif;
+}
 
 
 
@@ -14,6 +26,7 @@ header {
 /*main content */
 main {
     background-color: blue;
+    flex: 0 1 auto;
 
 }
 

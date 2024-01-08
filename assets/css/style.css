@@ -42,15 +42,18 @@ header {
     margin-bottom: 10px;
 }
 
+.active {
+    border-top: 2px solid red;
+    border-bottom: 2px solid green;
+}
+
 
 /* Main content */
 main {
     background-color: green;
     /*push footer down*/
     flex: 1 0 auto;
-    
 }
-
 
 /* Footer */
 footer {

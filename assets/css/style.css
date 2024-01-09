@@ -3,8 +3,8 @@
 
 /*asterisk wildcard selector*/
 * {
-  padding: 0;
-  margin: 0;
+    padding: 0;
+    margin: 0;
 }
 
 /* General styles */
@@ -25,7 +25,7 @@ header {
     flex-direction: column;
     justify-content: center;
     width: 100%;
-    
+
 }
 
 .header a {
@@ -34,7 +34,7 @@ header {
     justify-content: center;
     text-decoration: none;
     color: darkgreen;
-   
+
 }
 
 .navbar a {
@@ -44,92 +44,201 @@ header {
 
 ul li {
     display: inline-block;
-    margin-left: 6.2%; 
+    margin-left: 6.2%;
+    cursor: pointer;
 }
+
+.navbar a:hover {
+    background-color: darkgreen;
+    color: white;
+}
+
 
 .active {
     border-top: 3px solid darkgreen;
+
 }
 
 
 /*main content */
 main {
-    background-color: black;
+
     flex: 1 0 auto;
+    margin: 8px;
+    
     background-image: url(/assets/images/Optimized-Tyson.JPG);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 
+
+
 .part1 h2 {
-    background-color:  rgb(9, 105, 16, 0.3);
-    font-size: 18px;
+    background-color: rgb(9, 105, 16, 0.3);
+    font-size: x-small;
     width: 30%;
     position: relative;
     top: 100px;
     left: 10px;
     padding: 15px;
-}
-
-.active2 p:hover {
     
 }
+
+.part2 p {
+    background-color: rgb(9, 105, 16, 0.3);
+    width: 58%;
+    text-align: justify;
+    padding: 15px;
+    font-weight: bold;
+    position: relative;
+    top: 15em;
+
+    font-size: xx-small;
+    
+}
+.part3 p {
+    width: 80%;
+    font-size: xx-small;
+    text-align: justify;
+    font-weight: bold;
+    background-color:  rgb(9, 105, 16, 0.3);
+    
+    
+}
+
+.part1 h2:hover {
+    cursor: pointer;
+    font-size: 70%;
+    color: aliceblue;
+}
+
+.part2 p:hover {
+    cursor: pointer;
+    font-size: 70%;
+    color: aliceblue;
+}
+
+
+
 
 
 
 
 /*footer*/
-    #social-networks {
-        background-color: rgb(9, 105, 16, 0.5);
-        text-align: center;
-        padding: 20px 0;
-        display: flex;
-        justify-content: space-evenly;
-        list-style-type: none;
-    }
-    
-    #social-networks i {
-        font-size: 160%;
-        padding: 5%;
-        color: #3a3a3a;
-    }
+#social-networks {
+    background-color: rgb(9, 105, 16, 0.5);
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
 
-    #social-networks .fa-facebook {
-        color: blue;
-    }
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #3a3a3a;
+}
 
-    #social-networks .fa-twitter-square {
-        color: lightskyblue;
-    }
+#social-networks .fa-facebook {
+    color: blue;
+}
 
-    #social-networks .fa-youtube-square {
-        color: red;
-    }
+#social-networks .fa-twitter-square {
+    color: lightskyblue;
+}
 
-    #social-networks .fa-instagram {
-        color: purple;
-    }
+#social-networks .fa-youtube-square {
+    color: red;
+}
 
+#social-networks .fa-instagram {
+    color: purple;
+}
 
-/* Media query: tablets and larger (768px and up) */
-@media screen and (min-width: 768px) {
+#social-networks .fa-facebook:hover {
+    cursor: pointer;
+    font-size: 300%;
+}
 
-        /*Header*/
-        .header {
-            font-size: 20px;
-            position: relative;
-            right: 215px;
-            top: 15px;
-        }
+#social-networks .fa-twitter-square:hover {
+    cursor: pointer;
+    font-size: 300%;
+}
 
-        .navbar a {
-            position: relative;
-            left: 335px;
-            bottom: 25px;
-        }
+#social-networks .fa-youtube-square:hover {
+    cursor: pointer;
+    font-size: 300%;
+}
+
+#social-networks .fa-instagram:hover {
+    cursor: pointer;
+    font-size: 300%;
 }
 
 
 
 
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+
+    /*Header*/
+    .header {
+        font-size: 20px;
+        position: relative;
+        right: 215px;
+        top: 15px;
+    }
+
+    .navbar a {
+        position: relative;
+        left: 335px;
+        bottom: 25px;
+    }
+}
+
+/* Large devices (laptops and desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+    .header {
+        font-size: 30px;
+        position: relative;
+        right: 280px;
+        top: 15px;
+    }
+
+    .navbar a {
+        position: relative;
+        left: 470px;
+        bottom: 47px;
+        font-size: 19px;
+    }
+
+    .part1 h2 {
+        position: relative;
+        left: 665px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .header {
+        font-size: 30px;
+        position: relative;
+        right: 13em;
+        top: 15px;
+    }
+
+    .navbar a {
+        position: relative;
+        left: 32em;
+        bottom: 47px;
+        font-size: 19px;
+    }
+
+    .part1 h2 {
+        position: relative;
+        left: 665px;
+    }
+
+}

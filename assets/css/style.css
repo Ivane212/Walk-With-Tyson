@@ -20,11 +20,12 @@ body {
 
 /*heade*/
 header {
-    background-color: white;
+    background-color: rgb(9, 105, 16, 0.5);
     display: flex;
     flex-direction: column;
     justify-content: center;
     width: 100%;
+    
 }
 
 .header a {
@@ -53,17 +54,62 @@ ul li {
 
 /*main content */
 main {
-    background-color: blue;
+    background-color: black;
     flex: 1 0 auto;
-    margin-top: ;
-
+    background-image: url(/assets/images/Optimized-Tyson.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
+
+.part1 h2 {
+    background-color:  rgb(9, 105, 16, 0.3);
+    font-size: 18px;
+    width: 30%;
+    position: relative;
+    top: 100px;
+    left: 10px;
+    padding: 15px;
+}
+
+.active2 p:hover {
+    
+}
+
+
+
 
 /*footer*/
+    #social-networks {
+        background-color: rgb(9, 105, 16, 0.5);
+        text-align: center;
+        padding: 20px 0;
+        display: flex;
+        justify-content: space-evenly;
+        list-style-type: none;
+    }
+    
+    #social-networks i {
+        font-size: 160%;
+        padding: 5%;
+        color: #3a3a3a;
+    }
 
-footer {
-    background-color: green;
-}
+    #social-networks .fa-facebook {
+        color: blue;
+    }
+
+    #social-networks .fa-twitter-square {
+        color: lightskyblue;
+    }
+
+    #social-networks .fa-youtube-square {
+        color: red;
+    }
+
+    #social-networks .fa-instagram {
+        color: purple;
+    }
 
 
 /* Media query: tablets and larger (768px and up) */
@@ -82,14 +128,6 @@ footer {
             left: 335px;
             bottom: 25px;
         }
-        
-
-
-
-
-
-
-
 }
 
 

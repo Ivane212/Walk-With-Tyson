@@ -26,8 +26,7 @@
                 <h1>Walk With Tyson</h1>
             </a>
         </div>
-        
-        <nav >
+        <nav>
             <ul class="menu">
                 <li><a href="index.html">Home</a></li>
                 <li><a href="Tysons-Life.html">Tysons Life</a></li>
@@ -35,14 +34,76 @@
                 <li><a href="Walkies.html" class="active">Walkies</a></li>
             </ul>
         </nav>
-    
     </header>
-
-
-
-
     <!--Main Content-->
-    <main>
+    <main id="walkies">
+        <section class="meeting-location">
+            <div class="meetup1">
+                <h2> 1) Killiney Hill </h2>
+                <img src="" alt="">
+                <p>
+                 2.7-km loop trail near Dalkey, takes an average of 50 minutes to complete.
+                <br> 
+                Considered as low challenging route. 
+                Popular for birding,running and walking.
+                </p>
+            </div>
+            <div class="meetp2">
+                <h2> 2) Hellfire club </h2>
+                <img src="" alt="">
+                <p>
+                    8.4-km loop trail near Bohernabreena, 
+                    takes around 2 hour 32 minutes to finish. 
+                    <br>
+                    Considered as moderately challenging route with an elevation of 309m. 
+                    Known for hiking, running, and walking.
+                </p>
+
+            </div>
+        </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <section class="walkies-form">
+            <form class="meet-tyson" method="POST" action="">
+                <h3><i class="fa-solid fa-dog"></i> Pet Details <i class="fa-solid fa-dog"></i></h3>
+                <label for="pets_name">Pets Name</label>
+                <input type="text" name="pets_name" id="pets_name" class="text-input" required>
+                <br>
+                <label for="pete_type">Type of Pet</label>
+                <input type="text" name="pet_type" id="pet_type" class="text-input" required>
+                <br>
+                <label for="pets_age">Pets Age</label>
+                <input type="number" name="pet_name" id="pet_name" class="text-input" required>
+                <br>
+                <h3><i class="fa-brands fa-reddit-alien"></i> Huuman Details <i class="fa-brands fa-reddit-alien"></i></h3>
+                <label for="first_name">First Name</label>
+                <input type="text" name="first_name" id="first_name" class="text-input" required>
+                <br>
+                <label for="last_name">Last Name</label>
+                <input type="text" name="last_name" id="last_name" class="text-input" required>
+                <br>
+                <label for="email_address">Email Address</label>
+                <input type="email" name="email_address" id="email_address" class="text-input" required>
+                <br>
+                <label for="locations"> Meeting Location</label>
+                <input type="number" name="locations" id="locations" class="text-input" required>
+                <br>
+
+                <button type="submit" class="join-button">Walkies</button>
+            </form>
+        </section>
 
     </main>
 

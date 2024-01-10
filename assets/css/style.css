@@ -51,7 +51,7 @@ main {
 }
 
 .section1 {
-    background-image: url(/assets/images/main\ 2.jpg);
+    background-image: url(../images/main\ 2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -85,7 +85,7 @@ main {
 .section2 {
     display: flex;
     flex-direction: column;
-    background-image: url(/assets/images/20221209_062116.jpg);
+    background-image: url(../images/20221209_062116.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -260,7 +260,7 @@ main {
 
 
     body {
-        padding-top: 103px;
+        padding-top: 104px;
     }
     .menu {
         font-size: 20px;
@@ -295,7 +295,7 @@ main {
 @media screen and (min-width: 992px) { 
 
     body {
-        padding-top: 124px;
+        padding-top: 125px;
     }
 
     .header h1 {
@@ -317,8 +317,8 @@ main {
 @media screen and (min-width: 1200px) { 
     
     body {
-        padding-top: 140px;
-        padding-bottom: 79px;
+        padding-top: 141px;
+        padding-bottom: 80px;
     }
 
     .menu {
@@ -369,8 +369,8 @@ main {
 }
 @media screen and (min-width: 1441px) {
     body {
-        padding-top: 190px;
-        padding-bottom: 100px;
+        padding-top: 196px;
+        padding-bottom: 103px;
     }
 
     .menu {

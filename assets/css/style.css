@@ -5,6 +5,8 @@
 * {
     padding: 0;
     margin: 0;
+    text-decoration: none;
+    list-style-type: none;
 }
 
 /* General styles */
@@ -15,130 +17,186 @@ body {
     font-family: 'Kalam', cursive, sans-serif;
 }
 
-
-
-
 /*heade*/
 header {
     background-color: rgb(9, 105, 16, 0.5);
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    width: 100%;
-
+    margin: 2px;
+    padding: 10px;
 }
 
-.header a {
-    padding: 10px 0;
+.header {
     display: flex;
     justify-content: center;
-    text-decoration: none;
-    color: darkgreen;
-
+    align-items: center;
 }
 
-.navbar a {
-    text-decoration: none;
-    color: darkgreen;
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
-
-ul li {
-    display: inline-block;
-    margin-left: 6.2%;
-    cursor: pointer;
-}
-
-.navbar a:hover {
-    background-color: darkgreen;
-    color: white;
-}
-
 
 .active {
     border-top: 3px solid darkgreen;
+}
+
+.menu a:hover {
+    background-color: darkgreen;
+    color: white;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+
+.header h1:hover {
+    background-color: darkgreen;
+    color: white;
+    border-radius: 13px;
+    transition: 0.5s;
+    transform: rotate(360deg);
 
 }
 
 
 /*main content */
 main {
-
     flex: 1 0 auto;
-    margin: 8px;
-    
-    background-image: url(/assets/images/Optimized-Tyson.JPG);
+    margin: 2px;
+}
+
+.section1 {
+    background-image: url(/assets/images/main\ 2.jpg);
+    background-position: center;
     background-repeat: no-repeat;
+    background-attachment: scroll;
     background-size: cover;
-    background-attachment: fixed;
+    height: 400px;
+    width: 100%;
 }
 
 
 
-.part1 h2 {
+.section1 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.part1 {
     background-color: rgb(9, 105, 16, 0.3);
-    font-size: x-small;
-    width: 30%;
-    position: relative;
-    top: 100px;
-    left: 10px;
-    padding: 15px;
-    
+    font-size: small;
 }
 
-.part2 p {
+
+.part2 {
+    display: flex;
     background-color: rgb(9, 105, 16, 0.3);
-    width: 58%;
-    text-align: justify;
-    padding: 15px;
-    font-weight: bold;
-    position: relative;
-    top: 15em;
-
-    font-size: xx-small;
-    
-}
-.part3 p {
-    width: 80%;
-    font-size: xx-small;
-    text-align: justify;
-    font-weight: bold;
-    background-color:  rgb(9, 105, 16, 0.3);
-    
-    
 }
 
-.part1 h2:hover {
-    cursor: pointer;
-    font-size: 70%;
+.section2 {
+    display: flex;
+    flex-direction: column;
+    background-image: url(/assets/images/20221209_062116.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+}
+
+.section2 h2 {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(9, 105, 16, 0.3);
+    align-items: center;
+    justify-self: center;
+}
+
+.part3 {
+    background-color: rgb(9, 105, 16, 0.3);
+}
+
+.part1:hover {
+    color: aliceblue;
+    background-color: none;
+}
+
+.section2 h2:hover {
+    color: aliceblue;
+    background-color: none;
+
+}
+
+.tysons-life {
+    display: flex;
+    flex-direction: column;
+    color:  rgb(9, 105, 16);
+    text-align: justify;
+    padding: 9px;
+}
+
+.page2 h2 {
+    background-color: rgb(9, 105, 16, 0.3);
+    display: flex;
+    justify-content: center;
+}
+
+.page2 img {
+    height: 100px;
+    padding-left: 5px;
+}
+
+.page2 h2:hover {
     color: aliceblue;
 }
 
-.part2 p:hover {
+.page2 img:hover {
+    height: 290px;
     cursor: pointer;
-    font-size: 70%;
-    color: aliceblue;
+}
+.span1:hover {
+    color: red;
 }
 
+.span2:hover {
+    color: blue;
+}
 
+.span3:hover {
+    color: rgb(218, 15, 218);
+}
 
+.span4:hover {
+    color: rgb(9, 213, 23);
+}
 
+.photos img {
+    width: 100%;
+}
 
-
+.photo1:hover {
+    border-radius: 80px;
+}
 
 /*footer*/
 #social-networks {
     background-color: rgb(9, 105, 16, 0.5);
     text-align: center;
-    padding: 20px 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    margin: 2px;
+    padding: 25px;
+    
 }
 
 #social-networks i {
     font-size: 160%;
-    padding: 5%;
     color: #3a3a3a;
+    
+    
 }
 
 #social-networks .fa-facebook {
@@ -160,85 +218,99 @@ main {
 #social-networks .fa-facebook:hover {
     cursor: pointer;
     font-size: 300%;
+    transition: 0.5s;
+    transform: rotate(360deg);
 }
 
 #social-networks .fa-twitter-square:hover {
     cursor: pointer;
     font-size: 300%;
+    transition: 0.5s;
+    transform: rotate(360deg);
 }
 
 #social-networks .fa-youtube-square:hover {
     cursor: pointer;
     font-size: 300%;
+    transition: 0.5s;
+    transform: rotate(360deg);
 }
 
 #social-networks .fa-instagram:hover {
     cursor: pointer;
     font-size: 300%;
+    transition: 0.5s;
+    transform: rotate(360deg);
+    transition-timing-function: ease-in-out;
 }
 
+@media screen and (min-width: 768px) { 
+    .menu {
+        font-size: 20px;
+        padding: 0 39px;   
+    }
+    
+    .section1 {
+        height: 600px;
+    }
 
+    .section2 {
+        height: 600px;
+    }
 
+    .part1 {
+        display: flex;
+        justify-content: center;
+    }
 
+    .photos {
+        column-count: 4;
+    }
+
+    .photo1:hover {
+        height: 290px;
+        cursor: pointer;
+        border-radius: 80px;
+    }
+}
 
 /* Media query: tablets and larger (768px and up) */
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 992px) { 
+    .header h1 {
+        font-size: 40px;
+        width: 100%;  
+    }
 
-    /*Header*/
-    .header {
+    .menu {
+        font-size: 25px;
+        padding: 0 39px;   
+    }
+
+    .part1 {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width: 1200px) { 
+    .header h1 {
+        font-size: 50px;
+        width: 100%;  
+    }
+
+    .section1 {
+        height: 700px;
+    }
+
+    .part2 {
         font-size: 20px;
-        position: relative;
-        right: 215px;
-        top: 15px;
     }
 
-    .navbar a {
-        position: relative;
-        left: 335px;
-        bottom: 25px;
-    }
-}
-
-/* Large devices (laptops and desktops, 992px and up) */
-@media screen and (min-width: 992px) {
-    .header {
-        font-size: 30px;
-        position: relative;
-        right: 280px;
-        top: 15px;
+    .section2 {
+        height: 700px;
     }
 
-    .navbar a {
-        position: relative;
-        left: 470px;
-        bottom: 47px;
-        font-size: 19px;
+    .part3 {
+        font-size: 20px;
     }
-
-    .part1 h2 {
-        position: relative;
-        left: 665px;
-    }
-}
-
-@media screen and (min-width: 1200px) {
-    .header {
-        font-size: 30px;
-        position: relative;
-        right: 13em;
-        top: 15px;
-    }
-
-    .navbar a {
-        position: relative;
-        left: 32em;
-        bottom: 47px;
-        font-size: 19px;
-    }
-
-    .part1 h2 {
-        position: relative;
-        left: 665px;
-    }
-
 }

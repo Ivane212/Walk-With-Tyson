@@ -131,6 +131,7 @@ main {
     background-color: rgb(9, 105, 16, 0.3);
     display: flex;
     justify-content: center;
+    
 }
 
 .page2 img {
@@ -193,10 +194,12 @@ main {
 /* Form */
 #walkies {
     background-image: url(../images/walkies.JPG);
+    width: 100%;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    
 }
 
 

@@ -15,8 +15,6 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Kalam', cursive, sans-serif;
-    padding-top: 106px;
-    padding-bottom: 80px;
 }
 
 /*heade*/
@@ -24,10 +22,7 @@ header {
     background-color: rgb(9, 105, 16, 0.5);
     display: flex;
     flex-direction: column;
-    position: fixed;
-    width: 100%;
-    top: 0;
-    z-index: 999;
+
 }
 
 .header {
@@ -69,7 +64,6 @@ main {
 }
 
 .part1 {
-    background-color: rgb(9, 105, 16, 0.3);
     font-size: small;
     padding: 5px;
 }
@@ -95,9 +89,9 @@ main {
 }
 
 .section2 h2 {
+    background-color: rgb(252, 252, 252, 0.3);    
     display: flex;
     flex-direction: column;
-    background-color: rgb(9, 105, 16, 0.3);
     align-items: center;
     justify-self: center;
 }
@@ -257,10 +251,8 @@ main {
     justify-content: space-evenly;
     list-style-type: none;
     padding: 25px 0;
-    position: fixed;
     width: 100%;
-    bottom: 0;
-    z-index: 999;
+   
 }
 
 #social-networks i {
@@ -317,10 +309,6 @@ main {
 
 @media screen and (min-width: 768px) { 
 
-
-    body {
-        padding-top: 104px;
-    }
     .menu {
         font-size: 20px;
         padding: 0 39px;   
@@ -353,9 +341,7 @@ main {
 /* Media query: tablets and larger (992px and up) */
 @media screen and (min-width: 992px) { 
 
-    body {
-        padding-top: 125px;
-    }
+
 
     .header h1 {
         font-size: 40px;
@@ -375,10 +361,7 @@ main {
 
 @media screen and (min-width: 1200px) { 
     
-    body {
-        padding-top: 141px;
-        padding-bottom: 80px;
-    }
+
 
     .menu {
         font-size: 25px;
@@ -389,7 +372,7 @@ main {
          
     }
 
-    .part1 h1 {
+    .part1 h2 {
         font-size: 25px;
     }
 
@@ -428,11 +411,7 @@ main {
 }
 
 @media screen and (min-width: 1441px) {
-    body {
-        padding-top: 125px;
-        padding-bottom: 103px;
-    }
-
+   
     .menu {
         font-size: 25px;
     }
@@ -442,7 +421,7 @@ main {
          
     }
 
-    .part1 h1 {
+    .part1 h2 {
         font-size: 25px;
     }
 
@@ -478,5 +457,4 @@ main {
     #social-networks i {
         font-size: 25px;
     }
-}
 }

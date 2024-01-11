@@ -89,7 +89,7 @@ main {
 }
 
 .section2 h2 {
-    background-color: rgb(252, 252, 252, 0.3);    
+    background-color: rgb(252, 252, 252, 0.3);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -116,7 +116,7 @@ main {
 .tysons-life {
     display: flex;
     flex-direction: column;
-    color:  rgb(9, 105, 16);
+    color: rgb(9, 105, 16);
     text-align: justify;
     padding: 9px;
 }
@@ -125,7 +125,7 @@ main {
     background-color: rgb(9, 105, 16, 0.3);
     display: flex;
     justify-content: center;
-    
+
 }
 
 .page2 img {
@@ -161,6 +161,7 @@ main {
     height: 290px;
     cursor: pointer;
 }
+
 .span1:hover {
     color: red;
 }
@@ -193,7 +194,7 @@ main {
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    
+
 }
 
 
@@ -210,8 +211,8 @@ main {
 
 
 
-.meet-tyson{
-    color:  white;
+.meet-tyson {
+    color: white;
     padding: 30px;
 }
 
@@ -224,7 +225,7 @@ main {
 
 .text-input {
     background: transparent;
-    color:  rgb(9, 105, 16, 0.3);
+    color: rgb(9, 105, 16, 0.3);
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
@@ -238,7 +239,7 @@ main {
     border-radius: 30px;
     padding: 15px 32px;
     font-size: 100%;
-    background-color:  rgb(9, 105, 16, 0.3);
+    background-color: rgb(9, 105, 16, 0.3);
     color: white;
 }
 
@@ -252,14 +253,14 @@ main {
     list-style-type: none;
     padding: 25px 0;
     width: 100%;
-   
+
 }
 
 #social-networks i {
     font-size: 160%;
     color: #3a3a3a;
-    
-    
+
+
 }
 
 #social-networks .fa-facebook {
@@ -307,13 +308,13 @@ main {
     transition-timing-function: ease-in-out;
 }
 
-@media screen and (min-width: 768px) { 
+@media screen and (min-width: 768px) {
 
     .menu {
         font-size: 20px;
-        padding: 0 39px;   
+        padding: 0 39px;
     }
-    
+
     .section1 {
         height: 600px;
     }
@@ -339,18 +340,18 @@ main {
 }
 
 /* Media query: tablets and larger (992px and up) */
-@media screen and (min-width: 992px) { 
+@media screen and (min-width: 992px) {
 
 
 
     .header h1 {
         font-size: 40px;
-        width: 100%;  
+        width: 100%;
     }
 
     .menu {
         font-size: 25px;
-        padding: 0 39px;   
+        padding: 0 39px;
     }
 
     .part1 {
@@ -359,17 +360,17 @@ main {
     }
 }
 
-@media screen and (min-width: 1200px) { 
-    
+@media screen and (min-width: 1200px) {
+
 
 
     .menu {
         font-size: 25px;
     }
-    
+
     .header h1 {
         font-size: 50px;
-         
+
     }
 
     .part1 h2 {
@@ -383,7 +384,7 @@ main {
     .part2 {
         font-size: 25px;
     }
-    
+
     .section2 h2 {
         font-size: 25px;
     }
@@ -396,7 +397,7 @@ main {
         font-size: 25px;
     }
 
-    .photo1{
+    .photo1 {
         height: 450px;
     }
 
@@ -411,14 +412,14 @@ main {
 }
 
 @media screen and (min-width: 1441px) {
-   
+
     .menu {
         font-size: 25px;
     }
-    
+
     .header h1 {
         font-size: 40px;
-         
+
     }
 
     .part1 h2 {
@@ -432,7 +433,7 @@ main {
     .part2 {
         font-size: 20px;
     }
-    
+
     .section2 h2 {
         font-size: 25px;
     }
@@ -445,7 +446,7 @@ main {
         font-size: 20px;
     }
 
-    .photo1{
+    .photo1 {
         height: 700px;
     }
 

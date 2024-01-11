@@ -104,13 +104,10 @@ main {
 
 .part1:hover {
     color: aliceblue;
-    background-color: none;
 }
 
 .section2 h2:hover {
     color: aliceblue;
-    background-color: none;
-
 }
 
 .tysons-life {
@@ -180,10 +177,11 @@ main {
 
 .photos img {
     width: 100%;
+    height: 400px;
 }
 
 .photo1:hover {
-    border-radius: 80px;
+    border-radius: 120px;
 }
 
 /* Form */
@@ -330,10 +328,12 @@ main {
 
     .photos {
         column-count: 4;
+        width: 100%;
+    
     }
 
     .photo1:hover {
-        height: 290px;
+        height: 400px;
         cursor: pointer;
         border-radius: 80px;
     }
@@ -403,7 +403,7 @@ main {
 
     .photo1:hover {
         border-radius: 10px;
-        height: 500px;
+        height: 400px;
     }
 
     #social-networks i {
@@ -452,7 +452,7 @@ main {
 
     .photo1:hover {
         border-radius: 10px;
-        height: 800px;
+        height: 500px;
     }
 
     #social-networks i {

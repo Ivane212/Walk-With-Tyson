@@ -32,7 +32,7 @@ header {
     font-size: 20px;
 }
 
-.header a{
+.header a {
     color: darkgreen;
 
 }
@@ -49,54 +49,32 @@ header {
     justify-content: space-between;
     padding: 5px 20px;
 }
- .menu a {
+
+.menu a {
     color: black;
- }
+}
 
 
 /*main content */
 main {
     flex: 1 0 auto;
 }
-
-.section1 {
-    background-image: url(../images/main\ 2.jpg);
+.section1 img {
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: scroll;
     background-size: cover;
-    height: 400px;
+    background-attachment: fixed;
     width: 100%;
-}
-
-.flexbox {
-    display: flex;
-   flex-direction: column;
-}
-
-
-.section1 {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-}
-
-.part1 {
-    font-size: small;
-    padding: 5px;
-}
-
-.part1 h2 {
-    padding: 0 5px;
+    height: 410px;
 }
 
 
 .part2 {
-    display: flex;
     background-color: rgba(34, 77, 37, 0.5);
     padding: 20px;
     text-align: justify;
 }
+
 
 .section2 {
     display: flex;
@@ -110,17 +88,20 @@ main {
     width: 100%;
 }
 
+
 .part3 {
     background-color: rgb(9, 105, 16, 0.3);
     text-align: justify;
     padding: 20px;
 }
-.header h1:hover{
+
+.header h1:hover {
     cursor: pointer;
     font-size: 300%;
     transition: 0.5s;
     transform: rotate(720deg);
 }
+
 .part1:hover {
     color: aliceblue;
 }
@@ -306,8 +287,24 @@ main {
 
 @media screen and (min-width: 768px) {
 
-    
-    
+
+    .section1 {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+     .section1 img {
+        border-radius: 50%;
+     }
+
+
+    .part2 {
+        display: flex;
+        flex-direction: row;
+        
+    }
+
 
     .menu {
         font-size: 20px;
@@ -315,7 +312,13 @@ main {
     }
 
     .section1 {
-        height: 600px;
+        display: flex;
+         width: 50%;
+         border-radius: 50%;
+    }
+    .part2 {
+        display: flex;
+        flex-direction: column;
     }
 
     .section2 {
@@ -330,7 +333,7 @@ main {
     .photos {
         column-count: 4;
         width: 100%;
-    
+
     }
 
     .photo1:hover {

@@ -32,12 +32,12 @@ header {
     font-size: 20px;
 }
 
-header a{
+.header a{
     color: darkgreen;
 
 }
 
-header h1 span {
+.header h1 span {
     display: flex;
     justify-content: center;
     font-size: 14px;
@@ -49,6 +49,9 @@ header h1 span {
     justify-content: space-between;
     padding: 5px 20px;
 }
+ .menu a {
+    color: black;
+ }
 
 
 /*main content */
@@ -112,7 +115,12 @@ main {
     text-align: justify;
     padding: 20px;
 }
-
+.header h1:hover{
+    cursor: pointer;
+    font-size: 300%;
+    transition: 0.5s;
+    transform: rotate(720deg);
+}
 .part1:hover {
     color: aliceblue;
 }
@@ -289,7 +297,6 @@ main {
     font-size: 300%;
     transition: 0.5s;
     transform: rotate(360deg);
-    transition-timing-function: ease-in-out;
 }
 
 @media screen and (min-width: 768px) {

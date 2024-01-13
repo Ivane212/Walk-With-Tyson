@@ -1,5 +1,5 @@
 /*Google Font*/
-@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Philosopher&display=swap');
 
 /*asterisk wildcard selector*/
 * {
@@ -14,7 +14,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    font-family: 'Kalam', cursive, sans-serif;
+    font-family: 'Philosopher', sans-serif;
 }
 
 /*heade*/

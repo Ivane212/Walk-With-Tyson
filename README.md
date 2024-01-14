@@ -118,6 +118,10 @@ Walkies page has text content about the trails and a sign-up form.  Viewers can 
 
 Used as a version control system to track my progress, any changes made and to push files to GitHub.
 
+### GitHub
+
+Used to create Git repositories for the project and review any changes made. It is also used for storage of project.
+
 
 
 

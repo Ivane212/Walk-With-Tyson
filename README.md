@@ -102,6 +102,18 @@ Images page contains 18 photos of Tyson (German Shepherd dog). Photos are placed
 
 Walkies page has text content about the trails and a sign-up form.  Viewers can read information about the trails and sign up for the trail they are interested in. Sign up form needs details of both dogs and their owners.
 
+[Back to top](<#content>)
+# Technologies Used
+
+    * HTML: Used as the standard markup language for creating the project. 
+    * CSS: Used to style and layout HTML elements on the website.
+    * VSCode: Used to create the codes
+    * Google Fonts: Used to import font for the project.
+    * Font Awesome: Used to import different icons for the project.
+    * Favicon: Used to create and impoert personal favicon for the webiste. 
+    * Photo optimizer: Used to optimize photos. 
+    * Image Resizer: Used to resize photos.
+    
 
 
 

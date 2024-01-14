@@ -114,6 +114,11 @@ Walkies page has text content about the trails and a sign-up form.  Viewers can 
     * Photo optimizer: Used to optimize photos. 
     * Image Resizer: Used to resize photos.
     
+### Git
+
+Used as a version control system to track my progress, any changes made and to push files to GitHub.
+
+
 
 
 

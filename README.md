@@ -18,7 +18,7 @@ Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.htm
 
 # content
 
-    ##[User Experience UX**](<#user-experience-ux>)
+    * [**User Experience UX**](<#user-experience-ux>)
         * [Site Structure](<#site-structure>)
 
 # User Experience - UX

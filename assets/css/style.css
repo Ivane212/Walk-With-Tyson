@@ -146,8 +146,8 @@ main {
 }
 
 .page2 img {
-    height: 100px;
-    padding-left: 5px;
+    width: 100%;
+    margin: 20px 0; 
 }
 
 .active {
@@ -166,8 +166,9 @@ main {
 }
 
 .page2 img:hover {
-    height: 290px;
-    cursor: pointer;
+    border-radius: 30%;
+    transition: 1s;
+    
 }
 
 .photos img {

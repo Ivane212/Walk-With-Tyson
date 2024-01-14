@@ -51,7 +51,7 @@ header {
 }
 
 .menu a {
-    color: black;
+    color: rgb(10, 10, 10);
 }
 
 
@@ -269,19 +269,19 @@ main {
 }
 
 #social-networks .fa-facebook {
-    color: blue;
+    color: #0000ff;
 }
 
 #social-networks .fa-twitter-square {
-    color: lightskyblue;
+    color: #87cefa;
 }
 
 #social-networks .fa-youtube-square {
-    color: red;
+    color: #ff0000;
 }
 
 #social-networks .fa-instagram {
-    color: purple;
+    color: #800080;
 }
 
 #social-networks .fa-facebook:hover {

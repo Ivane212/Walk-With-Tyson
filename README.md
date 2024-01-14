@@ -14,7 +14,7 @@ bringing up a dog with good health and behaviour.
 Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.html" target="_blank" rel="noopener">Walk With Tyson</a>
 
 
-![Walk With Tyson resposive design](readme-images\responsive.png)
+![Walk With Tyson resposive design](readme-images/responsive.png)
 
 # Content
 
@@ -51,3 +51,11 @@ Users can access the link for social media at the bottom of all four pages by cl
 ## Font
 
 Philosopher, sans-serif is the font used for all the pages throught the website. 
+
+## Colour Scheme
+
+There are 14 colours used throughout the Project. Green is used as the predominant colour as the website is about nature and walks. 
+
+![colour scheme](readme-images/colour_scheme1.png)
+![colour scheme](readme-images/colour_scheme2.png)
+![colour scheme](readme-images/colour_scheme3.png)

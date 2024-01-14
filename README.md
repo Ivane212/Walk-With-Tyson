@@ -59,3 +59,19 @@ There are 14 colours used throughout the Project. Green is used as the predomina
 ![colour scheme](readme-images/colour_scheme1.png)
 ![colour scheme](readme-images/colour_scheme2.png)
 ![colour scheme](readme-images/colour_scheme3.png)
+
+## Media 
+
+All the photos and videos used are original as they are of my dog.
+
+[Back to top](<#content>)
+# Features
+
+Home page is the initial web page the user will view when they click the link to this website. The page consists of the following sections:
+
+## Header
+
+The title of the website is Walk With Tyson and the slogan is Healthy Puppy Happy Puppy. The text is in dark green colour on light green background as green depicts nature and the aim of the page is to organise scenic walks for dogs.  The title of the website rotates when the cursor hovers over.
+
+
+

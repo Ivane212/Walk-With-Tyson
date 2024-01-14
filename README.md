@@ -11,6 +11,6 @@ walks together. This session would help to socialise the dogs better in a more 
 This would also give an opportunity for the dog owners to discuss their challenges and doubts in
 bringing up a dog with good health and behaviour.
 
-Take a Walk With Tyson <a href="https://ivane212.github.io/Walk-With-Tyson/index.html" target="_blank" rel="noopener">
+Take a Walk With Tyson <a href="https://ivane212.github.io/Walk-With-Tyson/index.html" target="_blank" rel="noopener"></a>
 
-[!Walk With Tyson responsive design](assets/images/Am%20I%20Responsive_%20-%20Google%20Chrome%2014_01_2024%2001_08_13.png)
+![Walk With Tyson resposive design] (assets/images/am_i_resposive.png)

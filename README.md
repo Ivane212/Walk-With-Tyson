@@ -76,8 +76,11 @@ The title of the website is Walk With Tyson and the slogan is Healthy Puppy Happ
 
 ## Navigation Menu
 
-A fully responsive Navigation Menu is available for users on top of all the four pages of this website. 
+A fully responsive Navigation Menu is available for users on top of all the four pages of this website.  when cursor hovers over each navigation button, text and background colours transition occurs. 
 ![Navigation Menu](readme-images/navbar.png)
 
+## Footer
 
-## Main Page
+The footer consists of four social media icons placed in a row. When a user clicks on one of the icons, it will navigate them to the respective social media pages. The footer remains persistent on all the four pages of the website.
+![Footer](readme-images/footer.png)
+

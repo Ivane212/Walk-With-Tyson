@@ -13,4 +13,4 @@ bringing up a dog with good health and behaviour.
 
 Take a Walk With Tyson <a href="https://ivane212.github.io/Walk-With-Tyson/index.html" target="_blank" rel="noopener"></a>
 
-[Walk With Tyson resposive design] (assets/readme-images/resposive.png)
+[Walk With Tyson resposive design] C:\Users\gelas\OneDrive\Desktop\Walk-With-Tyson\readme-images\resposive.png

@@ -138,6 +138,8 @@ Sources for content: Information provided about my dog Tyson is original derived
 
  Sources for media: All the photos and videos used are original.
 
+ [Back to top](<#content>)
+
 
 
 

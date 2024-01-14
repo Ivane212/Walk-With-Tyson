@@ -10,3 +10,4 @@ for different trails in Dublin and Wicklow, where all dog owners can meet up at
 walks together. This session would help to socialise the dogs better in a more relaxed environment.
 This would also give an opportunity for the dog owners to discuss their challenges and doubts in
 bringing up a dog with good health and behaviour.
+

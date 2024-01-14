@@ -113,8 +113,7 @@ main {
 
 .header h1:hover {
     cursor: pointer;
-    font-size: 300%;
-    transition: 0.5s;
+    transition: 1.9s;
     transform: rotate(720deg);
 }
 

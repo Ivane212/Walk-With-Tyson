@@ -48,3 +48,6 @@ Walk With Tyson Website consists four pages: [Home](index.html) is the main laod
 
 Users can access the link for social media at the bottom of all four pages by clicking the icons for Facebook, X(Twitter), YouTube and Instagram. by clicking the icons users will leave the website and a new tab will be opened.
     
+## Font
+
+Philosopher, sans-serif is the font used for all the pages throught the website. 

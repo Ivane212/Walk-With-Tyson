@@ -172,8 +172,10 @@ main {
 }
 
 .photos img {
-    width: 100%;
-    height: 400px;
+    width: 90%;
+    height: 300px;
+    margin: 5px;
+    padding: 10px;
 }
 
 .photo1:hover {
@@ -330,10 +332,7 @@ main {
     }
 
     .photos {
-        column-count: 3;
-        width: 100%;
-        margin: 10px;
-
+        column-count: 2;
     }
 
     .photo1:hover {
@@ -404,6 +403,10 @@ main {
         font-size: 25px;
     }
 
+    .photos {
+        column-count: 5;
+    }
+
 
     .photo1:hover {
         border-radius: 100px;
@@ -413,54 +416,5 @@ main {
     #social-networks i {
         font-size: 40px;
     }
-}
-
-/*
-@media screen and (min-width: 1441px) {
-
-    .menu {
-        font-size: 25px;
-    }
-
-    .header h1 {
-        font-size: 40px;
-
-    }
-
-    .part1 h2 {
-        font-size: 25px;
-    }
-
-    .section1 {
-        height: 750px;
-    }
-
-    .part2 {
-        font-size: 20px;
-    }
-
-    .section2 h2 {
-        font-size: 25px;
-    }
-
-    .section2 {
-        height: 800px;
-    }
-
-    .part3 {
-        font-size: 20px;
-    }
-
-    .photo1 {
-        height: 700px;
-    }
-
-    .photo1:hover {
-        border-radius: 10px;
-        height: 500px;
-    }
-
-    #social-networks i {
-        font-size: 25px;
-    }
+    
 }

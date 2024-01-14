@@ -65,13 +65,14 @@ main {
     background-color:  rgba(34, 77, 37, 0.5);
 }
 .section1 {
-    background-image: url(../images/main\ 2.jpg);
+    background-image: url(../images/main.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-size: cover;
     height: 400px;
     width: 100%;
+    
 }
 
 
@@ -94,10 +95,10 @@ main {
 .section2 {
     display: flex;
     flex-direction: column;
-    background-image: url(../images/20221209_062116.jpg);
+    background-image: url(../images/main2.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-size: cover;
     height: 400px;
     width: 100%;
@@ -192,7 +193,7 @@ main {
 
 /* Form */
 #walkies {
-    background-image: url(../images/walkies.JPG);
+    background-image: url(../images/page4_img1.JPG);
     width: 100%;
     background-size: cover;
     background-position: center;
@@ -365,8 +366,10 @@ main {
 /* Media query: tablets and larger (992px and up) */
 @media screen and (min-width: 992px) {
 
+    .section1, .section2 {
+        margin: 50px;
+    }
 
-    
     .menu {
         font-size: 25px;
         padding: 20px 40px;
@@ -391,13 +394,20 @@ main {
         font-size: 50px;
 
     }
-
-    .part1 h2 {
-        font-size: 25px;
+    .section2 {
+        height: 600px;
+        border-radius: 50%;
+        margin: 50px 70px 50px 70px;
     }
 
     .section1 {
-        height: 700px;
+        height: 600px;
+        border-radius: 50%;
+        margin: 50px 70px 50px 70px;
+    }
+
+    .part1 h2 {
+        font-size: 25px;
     }
 
     .part2 {

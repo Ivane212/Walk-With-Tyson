@@ -90,14 +90,19 @@ The main page consists of two photos of Tyson (German Shepherd dog) and text con
 The footer consists of four social media icons placed in a row. When a user clicks on one of the icons, it will navigate them to the respective social media pages. The footer remains persistent on all the four pages of the website.
 ![Footer](readme-images/footer.png)
 
-
 ## Page 2: Tyson's Life
 
 This page has ten photos and two videos. The aim of this page is to describe about Tyson and discuss about the mental and physical health benefits of dogs. This page also discusses about the benefits for owners by participating in these walks. The content of this page is sub-divided into five sections called Early Life, Challenges, Happy Times, Behaviours and Health.
 
-## page 3: Images
+## Page 3: Images
 
 Images page contains 18 photos of Tyson (German Shepherd dog). Photos are placed in chronological order so that the viewer can see the growth phases of Tyson from a pup to an adult dog. The users can also see photos of Tyson socializing with other dogs including small, medium and large breeds.
+
+## Page 4: Walkies
+
+Walkies page has text content about the trails and a sign-up form.  Viewers can read information about the trails and sign up for the trail they are interested in. Sign up form needs details of both dogs and their owners.
+
+
 
 
 

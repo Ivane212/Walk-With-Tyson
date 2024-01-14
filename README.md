@@ -77,5 +77,7 @@ The title of the website is Walk With Tyson and the slogan is Healthy Puppy Happ
 ## Navigation Menu
 
 A fully responsive Navigation Menu is available for users on top of all the four pages of this website. 
+![Navigation Menu](readme-images/navbar.png)
+
 
 ## Main Page

@@ -23,7 +23,7 @@ Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.htm
 
 # User Experience - UX
 
-    ## As a web designer, my aim is to:
+## As a web designer, my aim is to:
 
     * Create a website that is user friendly and looks interesting.
     * Make the navigation simple for the users.

@@ -324,9 +324,9 @@ main {
         border-radius: 50%;
         
     }
-    .part2 {
-        display: flex;
-        flex-direction: column;
+  
+    .page2 img {
+        border-radius: 50%;
     }
 
     .section2 {
@@ -340,7 +340,7 @@ main {
     }
 
     .photos {
-        column-count: 2;
+        column-count: 3;
     }
 
     .photo1:hover {

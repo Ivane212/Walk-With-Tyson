@@ -79,7 +79,7 @@ The title of the website is Walk With Tyson and the slogan is Healthy Puppy Happ
 A fully responsive Navigation Menu is available for users on top of all the four pages of this website.  when cursor hovers over each navigation button, text and background colours transition occurs. 
 ![Navigation Menu](readme-images/navbar.png)
 
-## Main Page
+## Main 
 
 The main page consists of two photos of Tyson (German Shepherd dog) and text content.  The first photo is placed right below the navigation menu, which is followed by a quote.  Underneath it, there is a paragraph explaining the aim of the website, which is brining dogs and their owners together for walks. Below that, there is another photo of dog followed by the second paragraph that continues to explain about the website.
 ![Main Page](readme-images/main_page.png)

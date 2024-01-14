@@ -13,6 +13,5 @@ bringing up a dog with good health and behaviour.
 
 Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.html" target="_blank" rel="noopener">Walk With Tyson</a>
 
-![Walk With Tyson resposive design] (assets/)
 
-[Walk With Tyson resposive design] (assets/readme-images/resposive.png)
+![Walk With Tyson resposive design] (assets/readme-images/resposive.png)

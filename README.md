@@ -44,5 +44,7 @@ Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.htm
 Walk With Tyson Website consists four pages: [Home](index.html) is the main laoding page, [Tysons Life](tysons-life.html), [Images](images.html), and [Walkies](Walkies.html). All pages are all accessible from navigation bar. The header is clickable and will return the user to home page if used. Links to social media are placed at the footer of every page.
 
 [Back to top](<#content>)
-## i
+## Interactive Links
+
+Users can access the link for social media at the bottom of all four pages by clicking the icons for Facebook, X(Twitter), YouTube and Instagram. by clicking the icons users will leave the website and a new tab will be opened.
     

@@ -122,6 +122,23 @@ Used as a version control system to track my progress, any changes made and to p
 
 Used to create Git repositories for the project and review any changes made. It is also used for storage of project.
 
+## Sources
+
+Sources for content: Information provided about my dog Tyson is original derived from my own knowledge. Some health and behavioural facts about dogs in general as well as information about trails are derived from the following:
+ * https://pupford.com/why-dogs-jump
+ * https://www.thekennelclub.org.uk/health-and-dog-care
+ * https://www.masterclass.com/articles/dog-neutering
+ * https://www.alltrails.com
+
+ Sources for technical support: 
+ * https://imageresizer.com
+ * https://coolors.co
+ * https://fontawesome.com
+ * https://ui.dev/amiresponsive
+
+ Sources for media: All the photos and videos used are original.
+
+
 
 
 

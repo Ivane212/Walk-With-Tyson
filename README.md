@@ -73,5 +73,6 @@ Home page is the initial web page the user will view when they click the link to
 
 The title of the website is Walk With Tyson and the slogan is Healthy Puppy Happy Puppy. The text is in dark green colour on light green background as green depicts nature and the aim of the page is to organise scenic walks for dogs.  The title of the website rotates when the cursor hovers over.
 
+## Navigation Menu
 
-
+A fully responsive Navigation Menu is available for users on top of all the four pages of this website.

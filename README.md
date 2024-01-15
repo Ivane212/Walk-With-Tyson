@@ -81,6 +81,7 @@ A fully responsive Navigation Menu is available for users on top of all the four
 ## Main 
 
 The main page consists of two photos of Tyson (German Shepherd dog) and text content.  The first photo is placed right below the navigation menu, which is followed by a quote.  Underneath it, there is a paragraph explaining the aim of the website, which is brining dogs and their owners together for walks. Below that, there is another photo of dog followed by the second paragraph that continues to explain about the website.
+
 ![Main Page](readme-images/main_page.png)
 
 

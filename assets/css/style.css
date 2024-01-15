@@ -140,6 +140,7 @@ main {
 .page2 img {
     width: 100%;
     margin: 20px 0; 
+    border-radius: 40%;
 }
 
 .page2 video {
@@ -155,6 +156,10 @@ main {
 .photos img {
     width: 100%;
     border-radius: 50%;
+}
+
+.images {
+    background-color: #3a3a3a;
 }
 
 /*Hover effects*/
@@ -186,7 +191,7 @@ main {
 }
 
 .page2 img:hover {
-    border-radius: 30%;
+    border-radius: 0;
     transition: 1s;
     
 }
@@ -343,7 +348,8 @@ main {
     /*Tysons LIfe*/
 
     .page2 img {
-        border-radius: 50%;
+        width: 40%;
+        height: 250px;
     }
 
     /*Images*/
@@ -371,6 +377,8 @@ main {
 
 /* Large devices laptops and desktops (992px and up) */
 @media screen and (min-width: 992px) {
+
+    
 
     .menu {
         font-size: 25px;

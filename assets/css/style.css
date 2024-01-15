@@ -54,6 +54,10 @@ header {
     color: rgb(10, 10, 10);
 }
 
+.active {
+    border-top: 3px solid darkgreen;
+}
+
 
 /*main content */
 main {
@@ -111,20 +115,7 @@ main {
     padding: 20px;
 }
 
-
-.header h1:hover {
-    cursor: pointer;
-    transition: 1.9s;
-    transform: rotate(720deg);
-}
-
-.part1:hover {
-    color: aliceblue;
-}
-
-.section2 h2:hover {
-    color: aliceblue;
-}
+/* Tyson's Life section */
 
 .tysons-life {
     display: flex;
@@ -159,8 +150,28 @@ main {
 
 }
 
-.active {
-    border-top: 3px solid darkgreen;
+/*Images section*/
+
+.photos img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+/*Hover effects*/
+
+
+.header h1:hover {
+    cursor: pointer;
+    transition: 1.9s;
+    transform: rotate(720deg);
+}
+
+.part1:hover {
+    color: aliceblue;
+}
+
+.section2 h2:hover {
+    color: aliceblue;
 }
 
 .menu a:hover {
@@ -180,18 +191,12 @@ main {
     
 }
 
-.photos img {
-    width: 90%;
-    height: 300px;
-    margin: 5px;
-    padding: 10px;
+.gallery img:hover {
+    border-radius: 0;
+    transition: 1s;
 }
 
-.photo1:hover {
-    border-radius: 120px;
-}
-
-/* Form */
+/* Walkies Form */
 #walkies {
     background-image: url(../images/page4_img1.JPG);
     width: 100%;
@@ -201,7 +206,6 @@ main {
     background-attachment: fixed;
 
 }
-
 
 .walkies-form {
     padding: 20px 10% 0 10%;
@@ -311,7 +315,7 @@ main {
     transition: 0.5s;
     transform: rotate(360deg);
 }
-
+/* media Quuery: tablet and larger (768px and up)*/
 @media screen and (min-width: 768px) {
 
     .menu {
@@ -363,7 +367,7 @@ main {
     }
 }
 
-/* Media query: tablets and larger (992px and up) */
+/* Large devices laptops and desktops (992px and up) */
 @media screen and (min-width: 992px) {
 
     .section1, .section2 {
@@ -383,6 +387,8 @@ main {
         font-size: 30px;
     }
 }
+
+/* Large devices laptops and desktops (1200px and up) */
 
 @media screen and (min-width: 1200px) {
 

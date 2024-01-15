@@ -318,20 +318,15 @@ main {
 /* media Quuery: tablet and larger (768px and up)*/
 @media screen and (min-width: 768px) {
 
+    /*Header*/
     .menu {
         font-size: 20px;
         padding: 0 39px;
     }
 
-    .section1 {
-        width: 90%;
-        border-radius: 50%;
-        margin: 30px 50px 30px 40px;
-    }
+    /*Main*/
 
-
-    .section2 {
-        border-radius: 50%;
+    .section1, .section2 {
         width: 90%;
         border-radius: 50%;
         margin: 30px 50px 30px 40px;
@@ -345,18 +340,19 @@ main {
         font-size: 15px;
     }
 
+    /*Tysons LIfe*/
+
     .page2 img {
         border-radius: 50%;
     }
+
+    /*Images*/
 
     .photos {
         column-count: 3;
     }
 
-    .photo1:hover {
-        cursor: pointer;
-        border-radius: 100px;
-    }
+    /* Walkies Form */
 
     .text-input {
         width: 120px;
@@ -365,22 +361,24 @@ main {
         width: 30%;
         margin: 20px 0;
     }
+
+    /*footer*/
+
+    #social-networks i {
+        font-size: 25px;
+    }
 }
 
 /* Large devices laptops and desktops (992px and up) */
 @media screen and (min-width: 992px) {
-
-    .section1, .section2 {
-        margin: 50px;
-    }
 
     .menu {
         font-size: 25px;
         padding: 20px 40px;
     }
 
-    .photos1:hover {
-        border-radius: 100px;
+    .section1, .section2 {
+        margin: 50px;
     }
 
     #social-networks i {
@@ -392,24 +390,26 @@ main {
 
 @media screen and (min-width: 1200px) {
 
+    /*Header*/
+    .header h1 {
+        font-size: 50px;
+    }
+
     .menu {
         font-size: 30px;
     }
 
-    .header h1 {
-        font-size: 50px;
 
-    }
-    .section2 {
+     /*Main*/
+
+    .section2, .section1 {
         height: 600px;
         border-radius: 50%;
         margin: 50px 70px 50px 70px;
     }
 
-    .section1 {
-        height: 600px;
-        border-radius: 50%;
-        margin: 50px 70px 50px 70px;
+    .section2 h2 {
+        font-size: 25px;
     }
 
     .part1 h2 {
@@ -420,27 +420,17 @@ main {
         font-size: 25px;
     }
 
-    .section2 h2 {
-        font-size: 25px;
-    }
-
-    .section2 {
-        height: 700px;
-    }
-
     .part3 {
         font-size: 25px;
     }
+
+     /*Images*/
 
     .photos {
         column-count: 5;
     }
 
-
-    .photo1:hover {
-        border-radius: 100px;
-        
-    }
+    /*Footer*/
 
     #social-networks i {
         font-size: 40px;

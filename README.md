@@ -37,7 +37,7 @@ Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.htm
 
 # Design
 
-## Website Framework
+## Website Structure
 
 Walk With Tyson Website consists four pages: [Home](index.html) is the main laoding page, [Tysons Life](tysons-life.html), [Images](images.html), and [Walkies](Walkies.html). All pages are all accessible from navigation bar. The header is clickable and will return the user to home page if used. Links to social media are placed at the footer of every page.
 

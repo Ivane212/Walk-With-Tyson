@@ -347,11 +347,39 @@ main {
 
     /*Tysons LIfe*/
 
-    .page2 img {
-        width: 40%;
-        height: 250px;
+    .tysons-life img{
+        padding: 20px;
     }
 
+    .page2 .img1{
+        width: 40%;
+        float: right;
+    }
+
+    .page2 .img1a {
+        width: 40%;
+        height: 270px;
+    }
+
+    .page2 video {
+        float: left;
+         width: 50%;
+         padding: 20px;
+    }
+
+    .page2 .img2 {
+        width: 50%;
+        height: 300px;
+        float: right;
+    }
+
+    .page2 .img3 {
+        height: 300px;
+        width: 50%;
+    }
+
+    
+    
     /*Images*/
 
     .photos {
@@ -378,7 +406,7 @@ main {
 /* Large devices laptops and desktops (992px and up) */
 @media screen and (min-width: 992px) {
 
-    
+
 
     .menu {
         font-size: 25px;

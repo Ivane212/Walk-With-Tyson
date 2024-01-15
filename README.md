@@ -49,12 +49,12 @@ Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.htm
 
 ## As a web designer, my aim is to:
 
-    * Create a website that is user friendly and looks interesting.
-    * Make the navigation simple for the users.
-    * To give an idea to users (dog owners) about Tyson so that they can decide if he is compatible with their dogs. 
-    * To make users understand the purpose of the page and walks
-    * To make it easy for the users to find out all the trails and details.
-    * To enable signing- up for the walks without any technical difficulty. 
+* Create a website that is user friendly and looks interesting.
+* Make the navigation simple for the users.
+* To give an idea to users (dog owners) about Tyson so that they can decide if he is compatible with their dogs. 
+* To make users understand the purpose of the page and walks
+* To make it easy for the users to find out all the trails and details.
+* To enable signing- up for the walks without any technical difficulty. 
 
 
 

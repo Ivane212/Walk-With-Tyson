@@ -34,8 +34,8 @@ Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.htm
     *  [**Menu**](<#menu>)
     *  [**Footer**](<#footer>)
     *  [**Page 2 Tyson's Life**](<#page 2 tyson's life >)
-    *  [**Page 3: Images**](<#page 3: images >)
-    *  [**Page 4: Walkies**](<#page 4: walkies >)
+    *  [**Page 3 Images**](<#page 3 images >)
+    *  [**Page 4 Walkies**](<#page 4 walkies >)
 
 *  [**Technologies Used**](<#technologies used>)
     *  [**Git**](<#git>)

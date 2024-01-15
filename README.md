@@ -165,6 +165,17 @@ Used to create Git repositories for the project and review any changes made. It 
 
  [Back to top](<#content>)
 
+# Deployment
+
+The website was deployed from Github using the following steps:
+* Open 'GitHub'. 
+* Click on project to be deployed.
+* Click on 'Settings'.
+* Navigate to 'GitHub Pages'.
+* Select 'Check it out here'.
+* Click on 'Main' and click 'Save'.
+* Link to live website displays on top.
+
 
 
 

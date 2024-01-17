@@ -211,7 +211,9 @@ The website was deployed from Github using the following steps:
 * Content information taken from following websites: Pupford, The Kennel Club, MasterClass Articles and Alltrails.
 
 # Aknowledgement
-
+* Special thanks to tutor Paul Thomas and mentor Precious Ijege for their time and support throughtout the project.
+* Ayana gelashvili for photography and motivation.
+* Members of Stack community.
 
 
 

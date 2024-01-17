@@ -193,7 +193,25 @@ main {
 
 /* Walkies Form */
 
+.meetup2 {
+    position: relative;
+}
 
+.meetup2 img {
+    width: 100%;
+    height: auto;
+}
+
+.meetup2-text {
+    background-color: rgba(68, 63, 63, 0.4);
+    position: absolute;
+    top: 36%;
+    color: rgb(9, 105, 16);
+    padding: 10px;
+    text-align: justify;
+}
+
+/*
 .walkies-form {
     padding: 20px 10% 0 10%;
     flex-grow: 1;
@@ -238,7 +256,7 @@ main {
     background-color: rgb(9, 105, 16, 0.3);
     color: white;
 }
-
+*/
 
 /*footer*/
 #social-networks {

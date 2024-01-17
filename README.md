@@ -191,10 +191,10 @@ The website was deployed from Github using the following steps:
 
 ## Devices Used
 * Huawei MateBook D15
- * Google Chrome Version 120.0.6099.218
- * Microsoft Edge Version 120.0.2210.144 
- * Opera Version:120.0.6099.217 
- * Mozilla Firefox Version 121.0.1 (64-bit)
+  * Google Chrome Version 120.0.6099.218
+  * Microsoft Edge Version 120.0.2210.144 
+  * Opera Version:120.0.6099.217 
+  * Mozilla Firefox Version 121.0.1 (64-bit)
 * Lenovo 81 MT
   * Google Chrome Version 120.0.6099.218
   * Microsoft Edge Version 120.0.2210.133

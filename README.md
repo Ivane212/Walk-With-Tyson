@@ -42,6 +42,8 @@ Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.htm
     *  [**GitHub**](<#github>)
 
 *  [**Sources**](<#sources>)
+[**Sources**](<#sources>)
+
 
    
 
@@ -177,6 +179,7 @@ The website was deployed from Github using the following steps:
 * Link to live website displays on top.
 
 [Back to top](<#content>)
+
 
 
 

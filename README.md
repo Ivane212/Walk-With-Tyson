@@ -42,7 +42,7 @@ Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.htm
     *  [**GitHub**](<#github>)
 
 *  [**Sources**](<#sources>)
-[**Sources**](<#sources>)
+
 
 
    

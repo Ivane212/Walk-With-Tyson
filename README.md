@@ -180,6 +180,16 @@ The website was deployed from Github using the following steps:
 
 [Back to top](<#content>)
 
+# Testing
+
+## Browsers Used
+* Google Chrome
+* Microsoft Edge
+* Firefox
+* Safari
+* Opera
+
+
 
 
 

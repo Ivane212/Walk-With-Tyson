@@ -185,10 +185,24 @@ The website was deployed from Github using the following steps:
 ## Browsers Used
 * Google Chrome
 * Microsoft Edge
-* Firefox
+* Mozilla Firefox
 * Safari
 * Opera
 
+## Devices Used
+* Huawei MateBook D15
+ * Google Chrome Version 120.0.6099.218
+ * Microsoft Edge Version 120.0.2210.144 
+ * Opera Version:120.0.6099.217 
+ * Mozilla Firefox Version 121.0.1 (64-bit)
+* Lenovo 81 MT
+  * Google Chrome Version 120.0.6099.218
+  * Microsoft Edge Version 120.0.2210.133
+* Hanspree 
+  * Google Chrome Version 120.0.6099.201
+  * Microsoft Edge Version 119.0.2151.97
+* Samsung Galaxy S22 Ultra
+  * Google Chrome Version 120.0.6099.230
 
 
 

@@ -111,9 +111,6 @@ main {
 /* Tyson's Life section */
 
 .tysons-life {
-    display: flex;
-    flex-direction: column;
-    color: rgb(9, 105, 16);
     text-align: justify;
     padding: 9px;
 }
@@ -333,6 +330,7 @@ main {
     .container, .container2 {
         display: flex;
         align-items: center;
+        margin: 0 1em 2em;
         
     }
 
@@ -346,58 +344,108 @@ main {
     }
 
     .mainphoto2 {
-        width: 490%;
+        width: 500%;
         margin-top: 2em;
         border-radius: 40px;
-        height: 340px;
+        height: 338px;
     }
 
     .part2 p  {  
        margin-top: 2em;
        border-radius: 40px;
-       font-size: 19px;
+       font-size: 17.4px;
+       margin-left: 1em;
        
     }
 
     .part3 { 
         border-radius: 40px;
-        font-size: 20px;
-        margin-top: 30px;
+        font-size: 19.9px;
+        margin-top: 2em;
+        margin-left: 1em;
     }
            
 
     /*Tysons LIfe*/
 
-    .tysons-life img{
-        padding: 20px;
-    }
-
-    .page2 .img1{
-        width: 40%;
+    .early-life .img1{
+        width: 500px;
+        height: 350px;
         float: right;
+        margin-left: 1em;
     }
-
-    .page2 .img1a {
-        width: 40%;
-        height: 270px;
-    }
-
-    .page2 video {
+    
+    .challenges  video {
+        width: 300px;
+        height: 350px;
         float: left;
-         width: 50%;
-         padding: 20px;
+        margin-right: 1em;
     }
 
-    .page2 .img2 {
-        width: 50%;
-        height: 300px;
+    .challenges img {
+        width: 400px;
+        height: 340px;
         float: right;
+        margin-left: 1em;
     }
 
-    .page2 .img3 {
+    .happy-times .img3 {
+        width: 300px;
         height: 300px;
-        width: 50%;
+        float: left;
+        margin-right: 1em
     }
+
+    .happy-times .img4 {
+        width: 390px;
+        height: 370px;
+        margin-left: 8px;
+    
+    }
+
+    .behaviours .img5 {
+        width: 300px;
+        height: 300px;
+        float: left;
+        margin-right: 1em
+    }
+
+    .behaviours .img6 {
+        height: 400px; 
+    }
+
+    .health video{
+        width: 300px;
+        height: 300px;
+        float: left;
+        margin-right: 1em
+    }
+
+    .health .img7 {
+        width: 300px;
+        height: 250px;
+        float: right;
+        margin-right: 1em;
+    }
+
+    .health .img8 {
+        width: 300px;
+        height: 250px;
+        float: left;
+        margin-left: 1em
+    }
+
+    .end p {
+        float: left;
+        margin: 20px;
+    }
+
+   
+   
+
+
+
+
 
 
     
@@ -434,7 +482,7 @@ main {
         padding: 20px 40px;
     }
 
-    .mainphoto, .section2 {
+    .mainphoto, .mainphoto2 {
         margin: 50px;
     }
 

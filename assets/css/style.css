@@ -192,15 +192,7 @@ main {
 }
 
 /* Walkies Form */
-#walkies {
-    background-image: url(../images/page4_img1.JPG);
-    width: 100%;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
 
-}
 
 .walkies-form {
     padding: 20px 10% 0 10%;
@@ -439,15 +431,6 @@ main {
         float: left;
         margin: 20px;
     }
-
-   
-   
-
-
-
-
-
-
     
     /*Images*/
 

@@ -205,6 +205,10 @@ The website was deployed from Github using the following steps:
   * Google Chrome Version 120.0.6099.230
 
 # Credits
+* Social media icons and part of sign up form inspired by Love Running Project.
+* Readme.md inspired by wawaswoods project.
+* YouTube tutorial videos for project ideas and troubleshooting.
+* Content information taken from following websites: Pupford, The Kennel Club, MasterClass Articles and Alltrails.
 
 # Aknowledgement
 

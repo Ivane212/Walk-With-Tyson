@@ -301,25 +301,18 @@ main {
     margin: 5px;
 }
 
-
-
-/*
+/* Sign up form*/
 .walkies-form {
     padding: 20px 10% 0 10%;
     flex-grow: 1;
 }
 
-.meeting-location {
-    color: white;
-    padding: 50px;
-    margin-top: 8em;
-    background-color: rgba(68, 63, 63, 0.4);
-}
 
 .meet-tyson {
     color: white;
     padding: 30px;
     background-color: rgba(68, 63, 63, 0.4);
+    margin-bottom: 1px;
 }
 
 
@@ -348,7 +341,7 @@ main {
     background-color: rgb(9, 105, 16, 0.3);
     color: white;
 }
-*/
+
 
 /*footer*/
 #social-networks {

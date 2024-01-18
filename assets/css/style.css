@@ -192,12 +192,12 @@ main {
     transition: 1s;
 }
 
-/* Walkies Form */
+/* Walkies Loctions */
 
     .meetup1 img {
         width: 100%;
         height: auto;
-        margin: 10px 0;
+        
     }
 
 .meetup1-text {
@@ -215,7 +215,7 @@ main {
 .meetup2 img {
     width: 100%;
     height: auto;
-    margin: 10px 0;
+    
 }
 
 .meetup2-text {
@@ -232,7 +232,7 @@ main {
 .meetup3 img {
     width: 100%;
     height: auto;
-    margin: 10px 0;
+    
 }
 
 .meetup3-text {
@@ -242,8 +242,7 @@ main {
     padding: 10px;
     text-align: justify;
     border-radius: 30px;
-    border: 1px solid black;
-    margin: 5px;
+    border: 1px solid black;  
 }
 
 .meetup4-text {
@@ -253,21 +252,12 @@ main {
     padding: 10px;
     text-align: justify;
     border-radius: 30px;
-    border: 1px solid black;
-    margin: 5px;
+    border: 1px solid black;  
 }
 
 .meetup4 img {
     width: 100%;
-    height: auto;
-    margin: 10px 0;
-}
-
-
-.meetup5 img {
-    width: 100%;
-    height: auto;
-    margin: 10px 0;
+    height: auto;    
 }
 
 .meetup5-text {
@@ -280,14 +270,11 @@ main {
     border-radius: 30px;
     border: 1px solid black;
     margin: 5px;
-
 }
 
-
-.meetup6 img {
+.meetup5 img {
     width: 100%;
-    height: 400px;
-    margin: 10px 0;
+    height: auto;
 }
 
 .meetup6-text {
@@ -299,6 +286,11 @@ main {
     border-radius: 30px;
     border: 1px solid black;
     margin: 5px;
+}
+
+.meetup6 img {
+    width: 100%;
+    height: 400px;
 }
 
 /* Sign up form*/

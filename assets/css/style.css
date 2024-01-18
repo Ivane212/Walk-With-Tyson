@@ -193,6 +193,12 @@ main {
 
 /* Walkies Form */
 
+    .meetup1 img {
+        width: 100%;
+        height: auto;
+        margin: 10px 0;
+    }
+
 .meetup1-text {
     background-color: rgba(68, 63, 63, 0.4);
     font-size: 12px;
@@ -249,6 +255,13 @@ main {
     border: 1px solid black;
     margin: 5px;
 }
+
+.meetup4 img {
+    width: 100%;
+    height: auto;
+    margin: 10px 0;
+}
+
 
 .meetup5 img {
     width: 100%;

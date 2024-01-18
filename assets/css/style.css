@@ -79,6 +79,7 @@ main {
     background-size: cover;
     height:300px;
     width: 100%;
+    object-fit: cover;
 }
 
 .part2 p {
@@ -90,23 +91,22 @@ main {
 
 
 .mainphoto2 {
-    display: flex;
-    flex-direction: column;
     background-image: url(../images/main2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
-    height: 400px;
+    height: 300px;
     width: 100%;
+    object-fit: cover;
 }
 
 
 .part3 {
     background-color:  rgba(89, 121, 91, 0.5);
     text-align: justify;
-    padding: 20px;
-    font-size: 13px;
+    padding: 13px;
+    
 }
 
 /* Tyson's Life section */
@@ -256,6 +256,11 @@ main {
     border: 1px solid black;  
 }
 
+.meetup4 img {
+    width: 100%;
+    height: auto;    
+}
+
 .meetup4-text {
     background-color: rgba(68, 63, 63, 0.4);
     font-size: 12px;
@@ -266,9 +271,9 @@ main {
     border: 1px solid black;  
 }
 
-.meetup4 img {
+.meetup5 img {
     width: 100%;
-    height: auto;    
+    height: auto;
 }
 
 .meetup5-text {
@@ -283,9 +288,9 @@ main {
     margin: 5px;
 }
 
-.meetup5 img {
+.meetup6 img {
     width: 100%;
-    height: auto;
+    height: 400px;
 }
 
 .meetup6-text {
@@ -299,15 +304,10 @@ main {
     margin: 5px;
 }
 
-.meetup6 img {
-    width: 100%;
-    height: 400px;
-}
 
 /* Sign up form*/
 .walkies-form {
     padding: 20px 10% 0 10%;
-    flex-grow: 1;
 }
 
 
@@ -416,7 +416,6 @@ main {
     .menu {
         font-size: 20px;
         padding: 10px 39px;
-        margin-bottom: 10px;
     }
 
     /*Main*/
@@ -430,7 +429,6 @@ main {
         display: flex;
         align-items: center;
         margin: 0 1em 2em;
-        
     }
 
     .mainphoto {
@@ -439,14 +437,15 @@ main {
         margin-top: 2em;
         border-radius: 40px;
         height: 340px;
-
+        object-fit: cover;
     }
 
     .mainphoto2 {
         width: 500%;
         margin-top: 2em;
         border-radius: 40px;
-        height: 338px;
+        height: 300px;
+        object-fit: cover;
     }
 
     .part2 p  {  
@@ -543,18 +542,65 @@ main {
 
     .photos {
         column-count: 3;
+        object-fit: cover;
     }
 
     /* Walkies Form */
 
-    .text-input {
-        width: 120px;
-    }
-    .walkies-form {
-        width: 30%;
-        margin: 20px 0;
+    .meeting-location{
+        column-count:2;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        object-fit: cover;
     }
 
+    .meetup6 {
+        height: 50px;
+    }
+
+
+    .meet-tyson h3 {
+        display: flex;
+        justify-content: center;  
+        padding: 10px;
+    }
+
+    .meetup1 img {
+        margin-top: px;
+        object-fit: cover;
+    }
+
+/*
+    .meet-tyson label {
+        display: flex;
+        justify-content: center;
+        
+    }
+
+*/
+
+    .walkies-form {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 5px;
+        
+        
+    }
+
+    
+    .meet-tyson input {
+    
+      width: auto;
+      height: auto;
+      margin: 0;
+      text-align: justify;
+      
+
+    }
+
+
+    
     /*footer*/
 
     #social-networks i {

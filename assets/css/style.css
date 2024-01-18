@@ -116,6 +116,10 @@ main {
     padding: 9px;
 }
 
+.tysons-life img, video {
+    object-fit: cover;
+}
+
 .page2 {
     padding: 15px;
     color: black;
@@ -143,6 +147,10 @@ main {
 }
 
 /*Images section*/
+
+.photos {
+    object-fit: cover;
+}
 
 .photos img {
     width: 100%;
@@ -194,11 +202,15 @@ main {
 
 /* Walkies Loctions */
 
-    .meetup1 img {
-        width: 100%;
-        height: auto;
-        
-    }
+
+.meeting-location {
+    object-fit: cover;
+}
+
+.meetup1 img {
+    width: 100%;
+    height: auto;     
+}
 
 .meetup1-text {
     background-color: rgba(68, 63, 63, 0.4);
@@ -214,8 +226,7 @@ main {
 
 .meetup2 img {
     width: 100%;
-    height: auto;
-    
+    height: auto;   
 }
 
 .meetup2-text {

@@ -218,7 +218,7 @@ The website was deployed from Github using the following steps:
 * Social media icons and part of sign up form inspired by Love Running Project.
 * Readme.md inspired by Wawas Woods project.
 * YouTube tutorial videos for project ideas and troubleshooting.
-* Content information taken from following websites: Pupford, The Kennel Club, MasterClass Articles and Alltrails.
+* Content information taken from following websites: [Pupford](https://pupford.com/why-dogs-jump/), [The Kennel Club](https://www.thekennelclub.org.uk/health-and-dog-care), [MasterClass Articles](https://www.masterclass.com/articles/dog-neutering) and [Alltrails](https://www.alltrails.com/).
 
 # Acknowledgement
 

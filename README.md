@@ -177,7 +177,7 @@ Used to create Git repositories for the project and review any changes made. It 
 # Deployment
 
 The website was deployed from Github using the following steps:
-* Open 'GitHub'. 
+* Open 'GitHub'.
 * Click on project to be deployed.
 * Click on 'Settings'.
 * Navigate to 'GitHub Pages'.

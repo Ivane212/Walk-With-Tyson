@@ -317,10 +317,8 @@ main {
 
 /* Sign up form*/
 .walkies-form {
-    padding: 20px 10% 0 10%;
-    
+    padding: 20px 10% 0 10%; 
 }
-
 
 .meet-tyson {
     color: white;
@@ -330,12 +328,10 @@ main {
     border-radius: 30px;
 }
 
-
 .meet-tyson h2 {
     color: #fafafa;
     margin-bottom: 20px;
 }
-
 
 .text-input {
     background: transparent;
@@ -654,10 +650,7 @@ main {
         display: flex;
         justify-content: space-around;
         margin-bottom: 5px; 
-
     }
-
-
 
     .meet-tyson h3 {
         display: flex;
@@ -736,7 +729,7 @@ main {
     }
 
     .menu {
-        font-size: 30px;
+        font-size: 25px;
     }
 
      /*Main*/
@@ -774,7 +767,7 @@ main {
     } 
 
     .early-life .img1 {
-        height: 400px;
+        height: 350px;
     }
 
     .challenges h2 {
@@ -907,10 +900,25 @@ main {
         font-size: 18px;
     }
 
+
+    /* Sign up form*/
+
+    .meet-tyson h3 {
+        font-size: 30px;
+    }
+
+    .meet-tyson label {
+        font-size: 25px;
+    }
+
+    .meet-tyson input {
+       font-family: 20px;
+    }
+
     /*Footer*/
 
     #social-networks i {
-        font-size: 35px;
+        font-size: 25px;
     }
     
 }

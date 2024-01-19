@@ -19,35 +19,34 @@ Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.htm
 # Content
 
 * [**Introduction**](<#introduction>)
-* [**User Experience UX**](<#user experience UX>)
+* [**User Experience UX**](<#user-experience-UX>)
 * [**Design**](<#design>)
 
-    * [**Website Structure**](<#website structure>)
-    * [**Interactive Links**](<#interactive links>)
+    * [**Website Structure**](<#website-structure>)
+    * [**Interactive Links**](<#interactive-links>)
     * [**Font**](<#font>)
-    * [**Colour Scheme**](<#colour scheme>)
+    * [**Colour Scheme**](<#colour-scheme>)
     * [**Media**](<#media>)
 
 * [**Features**](<#features>)
     *  [**Header**](<#header>)
-    *  [**Navigation Menu**](<#navigation menu>)
+    *  [**Navigation Menu**](<#navigation-menu>)
     *  [**Menu**](<#menu>)
     *  [**Footer**](<#footer>)
-    *  [**Page 2 Tyson's Life**](<#page 2 tyson's life >)
-    *  [**Page 3 Images**](<#page 3 images >)
-    *  [**Page 4 Walkies**](<#page 4 walkies >)
-    *  [**Thank You page**](<#thank you page >)
+    *  [**Page 2 Tyson's Life**](<#page-2-tyson's-life>)
+    *  [**Page 3 Images**](<#page-3-images>)
+    *  [**Page 4 Walkies**](<#page-4-walkies>)
+    *  [**Thank You page**](<#thank-you-page>)
 
-
-*  [**Technologies Used**](<#technologies used>)
+*  [**Technologies Used**](<#technologies-used>)
     *  [**Git**](<#git>)
     *  [**GitHub**](<#github>)
 
 *  [**Sources**](<#sources>)
 
 *  [**Testing**](<#testing>)
-    * [**Browsers Used**](<#browsers used>)
-    * [**Devices used**](<#devices used>)
+    * [**Browsers Used**](<#browsers-used>)
+    * [**Devices used**](<#devices-used>)
 
 * [**Credits**](<#credits>)
 

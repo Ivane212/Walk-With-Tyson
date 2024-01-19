@@ -417,6 +417,14 @@ main {
     transition: 0.5s;
     transform: rotate(360deg);
 }
+
+
+/*Thank You Page*/
+.thank-you {
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+}
 /* media Quuery: tablet and larger (768px and up)*/
 @media screen and (min-width: 768px) {
 

@@ -92,7 +92,7 @@ Philosopher, sans-serif is the font used for all the pages throught the website.
 
 ## Colour Scheme
 
-There are ten colours used throughout the Project. Green is used as the predominant colour as the website is about nature and walks. 
+There are ten colours used throughout the project. Green is used as the predominant colour as the website is about nature and walks. 
 
 ![colour scheme](readme-images/colour_scheme1.png)
 ![colour scheme](readme-images/colour_scheme2.png)

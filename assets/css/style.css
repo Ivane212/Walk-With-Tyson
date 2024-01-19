@@ -82,7 +82,7 @@ main {
     object-fit: cover;
 }
 
-.part2 p {
+.part2 p{
     display: flex;
     background: linear-gradient(to left, darkgreen, white);
     padding: 13px;
@@ -822,7 +822,7 @@ main {
     .happy-times .img3 {
         object-fit: cover;
         width: 40%;
-        height: 600px;
+        height: 530px;
         float: right;
         margin-left: 15px;
     }

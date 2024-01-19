@@ -138,7 +138,7 @@ Images page contains 18 photos of Tyson (German Shepherd dog). Photos are placed
 
 ## Page 4: Walkies
 
-On this page six trails are listed along with their photos and a sign-up form.  Viewers can read information about the trails and sign up for the trail they are interested in. Sign up form needs details of both dogs and their owners. Once the user has signed up for a walk a Thank You page will be displayed.
+On this page six trails are listed along with their photos and a sign-up form.  Viewers can read information about the trails and sign up for the trail they are interested in. Sign up form needs details of both dogs and their owners. The confirmation button named 'Let's Go' rotates when the cursor hovers over. Once the user has signed up for a walk a Thank You page will be displayed.
 
 
 [Back to top](<#content>)

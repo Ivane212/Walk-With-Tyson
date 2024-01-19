@@ -51,6 +51,8 @@ Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.htm
 
 * [**Acknowledgement**](<#acknowledgement>)
 
+* [**Note**](<#note>)
+
 
    
 

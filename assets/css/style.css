@@ -19,7 +19,7 @@ body {
 
 /*heade*/
 header {
-    background-color: rgba(34, 77, 37, 0.5);
+    background: linear-gradient(to bottom, darkgreen, white);
     display: flex;
     flex-direction: column;
 }
@@ -33,7 +33,7 @@ header {
 }
 
 .header a {
-    color: darkgreen;
+    color: rgb(10, 10, 10);
 
 }
 
@@ -84,7 +84,7 @@ main {
 
 .part2 p {
     display: flex;
-    background-color: rgba(89, 121, 91, 0.5);
+    background: linear-gradient(to left, darkgreen, white);
     padding: 13px;
     text-align: justify;
 }
@@ -103,13 +103,17 @@ main {
 
 
 .part3 {
-    background-color:  rgba(89, 121, 91, 0.5);
+    background: linear-gradient(to right, darkgreen, white);
     text-align: justify;
     padding: 13px;
     
 }
 
 /* Tyson's Life section */
+
+.background2 {
+    background: linear-gradient(to left, darkgreen, white);
+}
 
 .tysons-life {
     text-align: justify;
@@ -204,7 +208,7 @@ main {
 
 
 .background {
-   background: linear-gradient(to right, skyblue, limegreen);
+    background: linear-gradient(to right, darkgreen, white);
 }
 
 .meetup1 img {
@@ -356,7 +360,7 @@ main {
 
 /*footer*/
 #social-networks {
-    background-color:rgba(34, 77, 37, 0.5);
+    background: linear-gradient(to top, darkgreen, white);
     text-align: center;
     display: flex;
     justify-content: space-evenly;
@@ -644,13 +648,6 @@ main {
     }
 
 
-
-
-
-
-    
-    
-
 /* Walkies Form */
 
     .walkies-form {
@@ -686,8 +683,6 @@ main {
 /* Large devices laptops and desktops (992px and up) */
 @media screen and (min-width: 992px) {
 
-
-   
     .menu {
         font-size: 25px;
         padding: 20px 40px;

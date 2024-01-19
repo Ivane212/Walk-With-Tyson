@@ -191,6 +191,9 @@ The website was deployed from Github using the following steps:
 
 # Testing
 
+All the four pages of this project were validated using W3C Markup Validator and W3C CSS Validator and the rsults can be seen below: 
+* W3C Markup Validator: [Result here](https://validator.w3.org/nu/#textarea)
+
 ## Browsers Used
 * Google Chrome
 * Microsoft Edge

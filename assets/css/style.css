@@ -256,6 +256,7 @@ main {
     width: 100%;
     height: auto;
     border-radius: 30px;
+    f
     
 }
 
@@ -521,6 +522,7 @@ main {
         width: 390px;
         height: 370px;
         margin-left: 8px;
+        background-size: cover;
     
     }
 
@@ -782,7 +784,8 @@ main {
     } 
 
     .early-life .img1 {
-        height: 350px;
+        height: 270px;
+        border-radius: 20px;
     }
 
     .challenges h2 {
@@ -795,9 +798,9 @@ main {
 
 
     .challenges .img2 {
-        background-position: bottom;
-        height: 270px;
-        width:30%;
+        height: 240px;
+        border-radius: 10px;
+        
     }
 
     .happy-times h2 {
@@ -807,12 +810,32 @@ main {
     .happy-times p {
         font-size: 22px;
     }
+
+    .happy-times .img4{
+        object-fit: cover;
+        border-radius: 40px;
+        width: 450px;
+        margin: 0;
+    }
+
+    .happy-times .img3 {
+        object-fit: cover;
+        width: 40%;
+        height: 600px;
+        float: right;
+        margin-left: 15px;
+    }
+
     .behaviours h2 {
         font-size: 40px;
     }
 
     .behaviours p {
         font-size: 22px;
+    }
+
+    .behaviours .img6 {
+        width: 50%;
     }
 
     .health h2 {
@@ -877,6 +900,7 @@ main {
     .meetup3-text p {
         font-size: 18px;
     }
+
 
     .meetup4-text {
         height: 24em;

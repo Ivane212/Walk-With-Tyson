@@ -543,62 +543,124 @@ main {
     .photos {
         column-count: 3;
         object-fit: cover;
+        margin: 2em;
     }
 
-    /* Walkies Form */
+    /*Meeting Locations*/
 
     .meeting-location{
-        column-count:2;
-        margin: 0;
-        padding: 0;
+        column-count: 2;
         width: 100%;
-        object-fit: cover;
     }
 
+    .meetup1-text {
+        height: 24em;
+        padding: 15px;
+        text-align: justify;
+        margin-top: 0;
+    }
+
+    .meetup1 img {
+        height: 19em;
+        object-fit: contain;
+    }
+
+    .meetup2-text {
+        height: 24em;
+        padding: 15px;
+        text-align: justify;
+    }
+
+    .meetup2 img {
+        height: 17em;
+        object-fit: contain;
+    }
+
+    .meetup3-text{
+        margin-left: 5px;
+        height: 24em;
+        padding: 15px;
+        text-align: justify;
+    }
+
+    .meetup3 img {
+        height: 18em;
+        object-fit: contain;
+    }
+
+    .meetup4-text {
+       margin-top: 18px;
+        padding: 15px;
+        margin-right: 5px;
+        height: 24em;
+        text-align: justify;
+    }
+
+    .meetup4 img {
+        height: 18em;
+        object-fit: contain;
+    }
+
+
+    .meetup5-text {
+      
+        padding: 15px;
+        margin-right: 5px;
+        height: 24em;
+        text-align: justify;
+    }
+
+    .meetup5 img{
+        height: 18em;
+        object-fit: contain;
+    }
+
+    .meetup6-text {
+        margin-top: 20px;
+        padding: 15px;
+        margin-right: 5px;
+        height: 24em;
+        text-align: justify;
+    }
+
+    .meetup6 img{
+        height: 18em;
+        object-fit: contain;
+    }
+
+
+
+
+
+
     
+    
+
+/* Walkies Form */
+
+    .walkies-form {
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 5px; 
+
+    }
+
 
 
     .meet-tyson h3 {
         display: flex;
-        justify-content: center;  
+        justify-content: center;    
         padding: 10px;
     }
-
-    .meetup1 img {
-        margin-top: px;
-        object-fit: cover;
-    }
-
-/*
-    .meet-tyson label {
-        display: flex;
-        justify-content: center;
-        
-    }
-
-*/
-
-    .walkies-form {
-        display: flex;
-        justify-content: center;
-        margin-bottom: 5px;
-        
-        
-    }
-
     
     .meet-tyson input {
-    
       width: auto;
       height: auto;
       margin: 0;
       text-align: justify;
-      
-
     }
 
 
-    
     /*footer*/
 
     #social-networks i {

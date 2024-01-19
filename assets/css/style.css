@@ -159,6 +159,7 @@ main {
 .photos img {
     width: 100%;
     border-radius: 50%;
+    box-shadow: 0 5px 20px -1px rgba(0, 0, 0, 0.8);
 }
 
 .images {
@@ -202,6 +203,11 @@ main {
 .gallery img:hover {
     border-radius: 0;
     transition: 1s;
+}
+
+.join-button:hover {
+    transition: 2s;
+    transform: rotate(720deg);
 }
 
 /* Walkies Loctions */
@@ -424,6 +430,7 @@ main {
     display: flex;
     justify-content: center;
     font-weight: bolder;
+    box-shadow: 0 5px 20px -1px rgba(0, 0, 0, 0.8);
 }
 /* media Quuery: tablet and larger (768px and up)*/
 @media screen and (min-width: 768px) {

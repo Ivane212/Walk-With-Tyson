@@ -29,6 +29,7 @@ Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.htm
     * [**Media**](<#media>)
 
 * [**Features**](<#features>)
+    *  [**Home Page**](<#home-page>)
     *  [**Header**](<#header>)
     *  [**Navigation Menu**](<#navigation-menu>)
     *  [**Main**](<#main>)
@@ -105,7 +106,7 @@ All the photos and videos used are original as they are of my dog.
 [Back to top](<#content>)
 # Features
 
-## Main Page
+## Home Page
 Home page is the initial web page the user will view when they click the link to this website. The page consists of the following sections:
 
 ## Header

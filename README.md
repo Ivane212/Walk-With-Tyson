@@ -226,6 +226,10 @@ The website was deployed from Github using the following steps:
 * Ayana Gelashvili for photography and motivation.
 * Members of Stack community.
 
+# Note
+
+This section has been added as advised by my tutor.   At the start of my project I encountered numerous challenges, leading to prolonged troubleshooting at different phases of the project. Various adjustments to the code were made by referring tutorials. Initially, I committed every modification made during the project. However I deviated from this practice by mistake, and forgot to commit updates at certain points. When I realised it, I employed a simple commit message, namely "push" to save my work on Github. I thought of creating a new GitHub repository and transfer my entire work from the initial project. However, my tutor advised me not to do so, to avoid the impression of expeditiously completing a huge amount work in an unrealistic timeframe. Therefore, I kept working within the existing GitHub repository. Hope this helps to clear any confusion that may have caused while checking my work. Please note I have no previous experience in coding and this is my first time learning it. I will try my level best to avoid these mistakes in the future. 
+
 
 
 

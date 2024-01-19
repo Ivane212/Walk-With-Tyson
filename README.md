@@ -47,6 +47,8 @@ Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.htm
 * [**Deployment**](<#deployment>)
 
 *  [**Testing**](<#testing>)
+    * [**Google Chrome Lighthouse Reports**](<#google-chrome-lighthouse-reports>)
+    * [**Validator Report**](<#validator-report>)
     * [**Browsers Used**](<#browsers-used>)
     * [**Devices used**](<#devices-used>)
 

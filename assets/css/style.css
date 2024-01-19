@@ -682,18 +682,47 @@ main {
 
 /* Large devices laptops and desktops (992px and up) */
 @media screen and (min-width: 992px) {
-
+    /*Header*/
     .menu {
         font-size: 25px;
         padding: 20px 40px;
     }
 
-    .mainphoto, .mainphoto2 {
-        margin: 50px;
+    /*Main*/
+
+    .part2 p, .part3 p{
+        font-size: 18px;
+        padding: 16.5px;
+        margin-bottom: 22px;
     }
 
+    .mainphoto, .mainphoto2 {
+        object-fit: cover;
+        margin: 10px;
+        height: 400px;
+    }
+
+    /*Tysons Life*/
+
+    
+     .challenges  .img2 {
+        object-fit: cover;
+        height: 250px;
+    }
+
+    .happy-times .img3 {
+        object-fit: cover;
+    }
+
+    .happy-times .img4 {
+        object-fit: cover;
+        width: 60%;
+
+    }
+
+    /*footer*/
     #social-networks i {
-        font-size: 30px;
+        font-size: 26px;
     }
 }
 

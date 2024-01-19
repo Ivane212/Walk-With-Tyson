@@ -44,6 +44,8 @@ Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.htm
 
 *  [**Sources**](<#sources>)
 
+* [**Deployment**](<#deployment>)
+
 *  [**Testing**](<#testing>)
     * [**Browsers Used**](<#browsers-used>)
     * [**Devices used**](<#devices-used>)

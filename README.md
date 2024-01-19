@@ -31,7 +31,7 @@ Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.htm
 * [**Features**](<#features>)
     *  [**Header**](<#header>)
     *  [**Navigation Menu**](<#navigation-menu>)
-    *  [**Menu**](<#menu>)
+    *  [**Main**](<#main>)
     *  [**Footer**](<#footer>)
     *  [**Page 2 Tyson's Life**](<#page-2-tysons-life>)
     *  [**Page 3 Images**](<#page-3-images>)
@@ -47,7 +47,7 @@ Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.htm
 * [**Deployment**](<#deployment>)
 
 *  [**Testing**](<#testing>)
-    * [**Google Chrome Lighthouse Reports**](<#google-chrome-lighthouse-reports>)
+    * [**Google Chrome Lighthouse Report**](<#google-chrome-lighthouse-report>)
     * [**Validator Report**](<#validator-report>)
     * [**Browsers Used**](<#browsers-used>)
     * [**Devices used**](<#devices-used>)
@@ -61,7 +61,7 @@ Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.htm
 
    
 
-# User Experience - UX
+# User Experience UX
 
 ## As a web designer, my aim is to:
 

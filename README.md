@@ -130,7 +130,7 @@ The footer consists of four social media icons placed in a row. When a user clic
 
 ## Page 2: Tyson's Life
 
-This page has ten photos and two videos. The aim of this page is to describe about Tyson and discuss about the mental and physical health benefits of dogs. This page also discusses about the benefits for owners by participating in these walks. The content of this page is sub-divided into five sections called Early Life, Challenges, Happy Times, Behaviours and Health.
+This page has eight photos and two videos. The aim of this page is to describe about Tyson as well as to discuss about the mental and physical health benefits to dogs, through regular meet ups and walks. This page also discusses about the benefits for owners by participating in these walks. The content of this page is sub-divided into five sections called Early Life, Challenges, Happy Times, Behaviours and Health.
 
 ## Page 3: Images
 

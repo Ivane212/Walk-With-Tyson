@@ -79,7 +79,7 @@ Walk With Tyson consists of four pages: [Home](index.html) is the main laoding p
 [Back to top](<#content>)
 ## Interactive Links
 
-Users can access the link for social media at the bottom of all four pages by clicking the icons for Facebook, X(Twitter), YouTube and Instagram. by clicking the icons users will leave the website and a new tab will be opened.
+Users can access the link to social media at the bottom of all four pages by clicking the icons for Facebook, X(Twitter), YouTube and Instagram. By clicking the icons users will leave the website and a new tab will be opened.
     
 ## Font
 

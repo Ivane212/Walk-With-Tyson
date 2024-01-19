@@ -561,8 +561,9 @@ main {
     }
 
     .meetup1 img {
-        height: 19em;
+        height: 17em;
         object-fit: contain;
+        padding: 5px;
     }
 
     .meetup2-text {
@@ -572,8 +573,9 @@ main {
     }
 
     .meetup2 img {
-        height: 17em;
+        height: 16em;
         object-fit: contain;
+        padding: 5px;
     }
 
     .meetup3-text{
@@ -584,8 +586,9 @@ main {
     }
 
     .meetup3 img {
-        height: 18em;
+        height: 17em;
         object-fit: contain;
+        padding: 5px;
     }
 
     .meetup4-text {
@@ -597,8 +600,9 @@ main {
     }
 
     .meetup4 img {
-        height: 18em;
+        height: 17em;
         object-fit: contain;
+        padding: 5px;
     }
 
 
@@ -608,11 +612,13 @@ main {
         margin-right: 5px;
         height: 24em;
         text-align: justify;
+
     }
 
     .meetup5 img{
-        height: 18em;
+        height: 17em;
         object-fit: contain;
+        padding: 5px;
     }
 
     .meetup6-text {
@@ -626,6 +632,7 @@ main {
     .meetup6 img{
         height: 18em;
         object-fit: contain;
+        padding: 5px;
     }
 
 

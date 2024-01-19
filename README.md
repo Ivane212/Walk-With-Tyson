@@ -124,6 +124,7 @@ The main page consists of two photos of Tyson (German Shepherd dog) and text con
 ## Footer
 
 The footer consists of four social media icons placed in a row. When a user clicks on one of the icons, it will navigate them to the respective social media pages. The footer remains persistent on all the four pages of the website.
+
 ![Footer](readme-images/footer.png)
 
 ## Page 2: Tyson's Life

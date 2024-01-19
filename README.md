@@ -208,7 +208,6 @@ All the four pages of this project were validated using W3C Markup Validator and
 * Google Chrome
 * Microsoft Edge
 * Mozilla Firefox
-* Safari
 * Opera
 
 ## Devices Used
@@ -220,7 +219,7 @@ All the four pages of this project were validated using W3C Markup Validator and
 * Lenovo 81 MT
   * Google Chrome Version 120.0.6099.218
   * Microsoft Edge Version 120.0.2210.133
-* Hanspree 
+* Hannspree HL247
   * Google Chrome Version 120.0.6099.201
   * Microsoft Edge Version 119.0.2151.97
 * Samsung Galaxy S22 Ultra

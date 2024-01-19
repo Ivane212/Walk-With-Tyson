@@ -109,18 +109,18 @@ All the photos and videos used are original as they are of my dog.
 ## Home Page
 Home page is the initial web page the user will view when they click the link to this website. The page consists of the following sections:
 
-## Header
+### Header
 
 The title of the website is Walk With Tyson and the slogan is Healthy Puppy Happy Puppy. The text is in black colour on light green-white background as green depicts nature and the aim of the page is to organise scenic walks for dogs.  The title of the website rotates when the cursor hovers over.
 
 ![header](readme-images/header.png)
 
-## Navigation Menu
+### Navigation Menu
 
 A fully responsive Navigation Menu is available for users on top of all the four pages of this website. When cursor hovers over each navigation button, text and background colours transition occurs. 
 ![Navigation Menu](readme-images/navbar.png)
 
-## Main 
+### Main 
 
 The main page consists of two photos of Tyson (German Shepherd dog) and text content.  The first photo is placed below the navigation menu on the left hand side of the page while the right hand side consists of a quote and a paragraph explaining the aim of the website which is bringing dogs and their owners together for walks. Underneath that, there is another photo of the dog on the left and a second paragrapgh on the right that continues to explain about the website. However on a mobile screen the first photo is displayed below navigation bar followed by the first paragrapgh. Below that, is the second photo followed by second paragraph.
 
@@ -128,7 +128,7 @@ The main page consists of two photos of Tyson (German Shepherd dog) and text con
 ![Main Page](readme-images/main.png)
 
 
-## Footer
+### Footer
 
 The footer consists of four social media icons placed in a row. When a user clicks on one of the icons, it will navigate them to the respective social media pages. The footer remains persistent on all the four pages of the website.
 

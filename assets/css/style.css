@@ -762,6 +762,63 @@ main {
         font-size: 26px;
     }
 
+
+    /*Tysons life*/
+
+    .early-life h2 {
+        font-size: 40px;
+    }
+
+    .early-life p {
+        font-size: 22px;
+    } 
+
+    .early-life .img1 {
+        height: 400px;
+    }
+
+    .challenges h2 {
+        font-size: 40px;
+    }
+
+    .challenges p {
+        font-size: 22px;   
+    }
+
+
+    .challenges .img2 {
+        background-position: bottom;
+        height: 270px;
+        width:30%;
+    }
+
+    .happy-times h2 {
+        font-size: 40px;
+    }
+
+    .happy-times p {
+        font-size: 22px;
+    }
+    .behaviours h2 {
+        font-size: 40px;
+    }
+
+    .behaviours p {
+        font-size: 22px;
+    }
+
+    .health h2 {
+        font-size: 40px;
+    }
+
+    .health p {
+        font-size: 22px;
+    }
+
+    .end {
+        font-size: 25px;
+    }
+
      /*Images*/
 
     .photos {
@@ -771,14 +828,89 @@ main {
      /*Meeting Locations*/
 
      .meeting-location{
-        column-count: 3;
+        column-count: 2;
         width: 100%;
+    }
+
+    .meetup1-text {
+        height: 24em;
+    }
+    
+    .meetup1-text h2 {
+        font-size: 25px;
+    }
+
+    .meetup1-text p {
+        font-size: 18px;
+    }
+
+    .meetup2-text {
+        height: 26em;
+    }
+
+    .meetup2-text h2 {
+        font-size: 25px;
+    }
+
+    .meetup2-text p {
+        font-size: 18px;
+    }
+
+
+    .meetup3-text {
+        height: 26em;
+    }
+
+    .meetup3-text h2 {
+        font-size: 25px;
+
+    }
+
+    .meetup3-text p {
+        font-size: 18px;
+    }
+
+    .meetup4-text {
+        height: 24em;
+    }
+
+    .meetup4-text h2 {
+        font-size: 25px;
+    }
+
+    .meetup4-text p {
+        font-size: 18px;
+    }
+
+    .meetup5-text {
+        height: 26em;
+    }
+
+    .meetup5-text h2 {
+        font-size: 25px;
+    }
+
+    .meetup5-text p {
+        font-size: 18px;
+    }
+
+    .meetup6-text {
+        height: 26em;
+    }
+
+
+    .meetup6-text h2 {
+        font-size: 25px;
+    }
+
+    .meetup6-text p {
+        font-size: 18px;
     }
 
     /*Footer*/
 
     #social-networks i {
-        font-size: 30px;
+        font-size: 35px;
     }
     
 }

@@ -256,8 +256,7 @@ main {
     width: 100%;
     height: auto;
     border-radius: 30px;
-    f
-    
+   
 }
 
 .meetup3-text {
@@ -952,7 +951,7 @@ main {
     }
 
     .meet-tyson input {
-       font-family: 20px;
+       font-size: 20px;
     }
 
     /*Footer*/

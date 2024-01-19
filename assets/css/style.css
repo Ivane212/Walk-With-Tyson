@@ -754,6 +754,7 @@ main {
     .mainphoto, .mainphoto2 {
         object-fit: cover;
         height: 390px; 
+        width: 180%;
         border-radius: 5%;
         
     }

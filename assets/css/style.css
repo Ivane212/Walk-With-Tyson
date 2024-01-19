@@ -739,29 +739,27 @@ main {
         font-size: 30px;
     }
 
-
      /*Main*/
 
-    .section2, .mainphoto {
-        height: 600px;
-        border-radius: 50%;
-        margin: 50px 70px 50px 70px;
+    .mainphoto, .mainphoto2 {
+        object-fit: cover;
+        height: 390px; 
+        border-radius: 5%;
+        
     }
 
-    .section2 h2 {
-        font-size: 25px;
-    }
-
-    .part1 h2 {
-        font-size: 25px;
-    }
-
-    .part2 {
-        font-size: 25px;
+    .part2 p {
+        font-size: 24px;
+        margin-bottom: 50px;
+        
     }
 
     .part3 {
-        font-size: 25px;
+        margin-bottom: 38px;
+    }
+
+    .part3 p {
+        font-size: 26px;
     }
 
      /*Images*/
@@ -780,7 +778,7 @@ main {
     /*Footer*/
 
     #social-networks i {
-        font-size: 40px;
+        font-size: 30px;
     }
     
 }

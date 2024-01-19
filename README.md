@@ -217,7 +217,7 @@ Lighthouse report for desktop screen is as follows:
 
 ![Light House desktop](readme-images/lighthouse_desktop.png)
 
-## Validator Reports
+## Validator Report
 All the four pages of this project were validated using W3C Markup Validator and W3C CSS Validator and the rsults can be seen below: 
 
 * W3C Markup Validator: [Result here](https://validator.w3.org/nu/?doc=https%3A%2F%2Fivane212.github.io%2FWalk-With-Tyson%2F)

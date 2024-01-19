@@ -134,7 +134,7 @@ This page has eight photos and two videos. The aim of this page is to describe a
 
 ## Page 3: Images
 
-Images page contains 18 photos of Tyson (German Shepherd dog). Photos are placed in chronological order so that the viewer can see the growth phases of Tyson from a pup to an adult dog. The users can also see photos of Tyson socializing with other dogs including small, medium and large breeds.
+Images page contains 18 photos of Tyson (German Shepherd dog). Photos are placed in chronological order so that the viewer can see the growth phases of Tyson from a pup to an adult dog. The users can also see photos of Tyson socializing with other breeeds including small, medium and large sized dogs.
 
 ## Page 4: Walkies
 

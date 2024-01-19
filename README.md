@@ -204,6 +204,18 @@ The website was deployed from Github using the following steps:
 
 # Testing
 
+## Google Chrome Lighthouse Report
+
+Lighthouse report for mobile screen is as follows:
+
+![Light House mobile](readme-images/lighthouse_mobile.png)
+
+
+Lighthouse report for desktop screen is as follows:
+
+![Light House desktop](readme-images/lighthouse_desktop.png)
+
+## Validator Reports
 All the four pages of this project were validated using W3C Markup Validator and W3C CSS Validator and the rsults can be seen below: 
 
 * W3C Markup Validator: [Result here](https://validator.w3.org/nu/?doc=https%3A%2F%2Fivane212.github.io%2FWalk-With-Tyson%2F)

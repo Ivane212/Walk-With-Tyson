@@ -68,7 +68,7 @@ Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.htm
 * Create a website that is user friendly and looks interesting.
 * Make the navigation simple for the users.
 * To give an idea to users (dog owners) about Tyson so that they can decide if he is compatible with their dogs. 
-* To make users understand the purpose of the page and walks
+* To make users understand the purpose of the page and walks.
 * To make it easy for the users to find out all the trails and details.
 * To enable signing- up for the walks without any technical difficulty. 
 
@@ -79,7 +79,7 @@ Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.htm
 
 ## Website Structure
 
-Walk With Tyson consists of four pages: [Home](index.html) is the main laoding page, [Tysons Life](tysons-life.html), [Images](images.html), [Walkies](Walkies.html) and a Thank You message that pops up when a user sign up for walks. All the four pages are all accessible from navigation bar except for the secret Thank You page. The header is responsive and will return the user to home page when used. Links to social media are placed at the footer of every page.
+Walk With Tyson consists of four pages: [Home](index.html) is the main laoding page, [Tysons Life](Tysons-Life.html), [Images](images.html), [Walkies](Walkies.html) and a Thank You message that pops up when a user sign up for walks. All the four pages are all accessible from navigation bar except for the secret Thank You page. The header is responsive and will return the user to home page when used. Links to social media are placed at the footer of every page.
 
 [Back to top](<#content>)
 ## Interactive Links

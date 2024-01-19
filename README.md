@@ -74,7 +74,7 @@ Why not sign up to <a href="https://ivane212.github.io/Walk-With-Tyson/index.htm
 
 ## Website Structure
 
-Walk With Tyson Website consists four pages: [Home](index.html) is the main laoding page, [Tysons Life](tysons-life.html), [Images](images.html), [Walkies](Walkies.html) and a Thank You message that pops up when a user sign up for walks. All pages are all accessible from navigation bar. The header is clickable and will return the user to home page if used. Links to social media are placed at the footer of every page.
+Walk With Tyson consists of four pages: [Home](index.html) is the main laoding page, [Tysons Life](tysons-life.html), [Images](images.html), [Walkies](Walkies.html) and a Thank You message that pops up when a user sign up for walks. All the four pages are all accessible from navigation bar except for the secret Thank You page. The header is responsive and will return the user to home page when used. Links to social media are placed at the footer of every page.
 
 [Back to top](<#content>)
 ## Interactive Links
